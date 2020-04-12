@@ -122,7 +122,7 @@ io.on("connection", function (socket) {
       room.round.speaker = roundSpeaker;
       room.round.watcher = roundWatcher;
       io.in(data.roomName).emit(SERVER_EVENTS.ROUND_ENDED, { round: room.round })
-    }, 10000)
+    }, 60000)
     io.to(room.round.watcher.id).emit(SERVER_EVENTS.DEAL_CARD, { card });
     io.to(room.round.speaker.id).emit(SERVER_EVENTS.DEAL_CARD, { card });
   });
