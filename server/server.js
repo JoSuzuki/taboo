@@ -7,6 +7,8 @@ var cards = require('./cards.json')
 var app = express();
 var server = http.Server(app);
 var io = socketIO(server);
+const port = process.env.PORT || 3000;
+
 
 var CLIENT_EVENTS = {
   JOIN: "join",
@@ -42,15 +44,15 @@ const TEAMS = {
   1: "red",
 };
 
-app.set("port", 80);
+app.set("port", port);
 app.use("/client", express.static(path.join(__dirname, "../client")));
 
 app.get("/", function (request, response) {
   response.sendFile(path.join(__dirname, "../client/index.html"));
 });
 
-server.listen(80, function () {
-  console.log("Starting server on port 80");
+server.listen(port, function () {
+  console.log(`Starting server on port ${port}`);
 });
 
 var rooms = {};
