@@ -42,15 +42,15 @@ const TEAMS = {
   1: "red",
 };
 
-app.set("port", 5000);
+app.set("port", 80);
 app.use("/client", express.static(path.join(__dirname, "../client")));
 
 app.get("/", function (request, response) {
   response.sendFile(path.join(__dirname, "../client/index.html"));
 });
 
-server.listen(5000, function () {
-  console.log("Starting server on port 5000");
+server.listen(80, function () {
+  console.log("Starting server on port 80");
 });
 
 var rooms = {};
