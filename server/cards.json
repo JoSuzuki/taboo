@@ -1,0 +1,708 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "word": "clipe",
+      "tabu": [
+        "papel",
+        "escritório",
+        "grampo",
+        "metal",
+        "junto"
+      ]
+    },
+    {
+      "id": 2,
+      "word": "pasta",
+      "tabu": [
+        "trabalho",
+        "papéis",
+        "negócios",
+        "carregar",
+        "executivo"
+      ]
+    },
+    {
+      "id": 3,
+      "word": "âncora",
+      "tabu": [
+        "navio",
+        "barco",
+        "noticiário",
+        "jogar",
+        "içsar"
+      ]
+    },
+    {
+      "id": 4,
+      "word": "inteligente",
+      "tabu": [
+        "burro",
+        "esperto",
+        "intelectual",
+        "brilhante",
+        "estúpido"
+      ]
+    },
+    {
+      "id": 5,
+      "word": "software",
+      "tabu": [
+        "programa",
+        "computador",
+        "instalar",
+        "disquete/CD-ROM",
+        "linguagem"
+      ]
+    },
+    {
+      "id": 6,
+      "word": "maracujá",
+      "tabu": [
+        "rugas",
+        "azedo",
+        "semente",
+        "fruta",
+        "amarelo"
+      ]
+    },
+    {
+      "id": 7,
+      "word": "prisão",
+      "tabu": [
+        "cadeia",
+        "grades",
+        "cárcere",
+        "cela",
+        "criminoso"
+      ]
+    },
+    {
+      "id": 8,
+      "word": "roxo",
+      "tabu": [
+        "cor",
+        "azul",
+        "violeta",
+        "raiva",
+        "lavanda"
+      ]
+    },
+    {
+      "id": 9,
+      "word": "austrália",
+      "tabu": [
+        "canguru",
+        "Sidnei",
+        "coala",
+        "Crocodilo Dundee",
+        "Oceania"
+      ]
+    },
+    {
+      "id": 10,
+      "word": "tapa",
+      "tabu": [
+        "cabeça",
+        "costas",
+        "olho",
+        "mão",
+        "briga"
+      ]
+    },
+    {
+      "id": 11,
+      "word": "bilhar",
+      "tabu": [
+        "mesa",
+        "jogo",
+        "caçapa",
+        "bola",
+        "taco"
+      ]
+    },
+    {
+      "id": 12,
+      "word": "champanhe",
+      "tabu": [
+        "vinho",
+        "bolhas",
+        "rolha",
+        "brinde",
+        "Dom Perignon"
+      ]
+    },
+    {
+      "id": 13,
+      "word": "caratê",
+      "tabu": [
+        "chute",
+        "artes marciais",
+        "faixa",
+        "mão",
+        "Kid"
+      ]
+    },
+    {
+      "id": 14,
+      "word": "cenário",
+      "tabu": [
+        "vista",
+        "beleza",
+        "panorama",
+        "paisagem",
+        "mudança"
+      ]
+    },
+    {
+      "id": 15,
+      "word": "vagão",
+      "tabu": [
+        "engate",
+        "estação",
+        "puxar",
+        "trem",
+        "trilho"
+      ]
+    },
+    {
+      "id": 16,
+      "word": "cortador de grama",
+      "tabu": [
+        "jardim",
+        "cortar",
+        "aparar",
+        "grama/mato",
+        "verde"
+      ]
+    },
+    {
+      "id": 501,
+      "word": "metralhadora",
+      "tabu": [
+        "automática",
+        "arma",
+        "armamento",
+        "UZI",
+        "tiro"
+      ]
+    },
+    {
+      "id": 502,
+      "word": "radiografia",
+      "tabu": [
+        "raio X",
+        "exame",
+        "hospital",
+        "osso",
+        "fratura"
+      ]
+    },
+    {
+      "id": 503,
+      "word": "envelhecido",
+      "tabu": [
+        "antigo",
+        "embolorado",
+        "seco",
+        "uísque",
+        "fresco"
+      ]
+    },
+    {
+      "id": 504,
+      "word": "tesouro",
+      "tabu": [
+        "enterrado",
+        "ilha",
+        "ouro",
+        "baú",
+        "pirata"
+      ]
+    },
+    {
+      "id": 505,
+      "word": "congresso",
+      "tabu": [
+        "câmara",
+        "senado",
+        "deputados",
+        "Brasília",
+        "legislativo"
+      ]
+    },
+    {
+      "id": 506,
+      "word": "lama",
+      "tabu": [
+        "sujo",
+        "terra",
+        "umidade",
+        "água",
+        "chuva"
+      ]
+    },
+    {
+      "id": 507,
+      "word": "bacon",
+      "tabu": [
+        "porco",
+        "comer",
+        "toucinho",
+        "gordura",
+        "ovos"
+      ]
+    },
+    {
+      "id": 508,
+      "word": "rena",
+      "tabu": [
+        "Natal",
+        "Papai Noel",
+        "presente",
+        "chaminé",
+        "trenó"
+      ]
+    },
+    {
+      "id": 509,
+      "word": "caubói",
+      "tabu": [
+        "chapéu",
+        "cavalo",
+        "rodeio",
+        "peão",
+        "Barretos"
+      ]
+    },
+    {
+      "id": 510,
+      "word": "depressão",
+      "tabu": [
+        "tristeza",
+        "melancolia",
+        "desânimo",
+        "crise",
+        "doença"
+      ]
+    },
+    {
+      "id": 511,
+      "word": "uva",
+      "tabu": [
+        "roxo",
+        "vinho",
+        "Itália",
+        "cacho",
+        "fruta"
+      ]
+    },
+    {
+      "id": 512,
+      "word": "coador",
+      "tabu": [
+        "fazer",
+        "peneira",
+        "escorrer",
+        "água",
+        "café"
+      ]
+    },
+    {
+      "id": 513,
+      "word": "cachoeira",
+      "tabu": [
+        "catarata",
+        "água",
+        "rio",
+        "queda",
+        "Iguaçu"
+      ]
+    },
+    {
+      "id": 514,
+      "word": "impedimento",
+      "tabu": [
+        "futebol",
+        "jogador",
+        "zagueiro",
+        "lançamento",
+        "passe"
+      ]
+    },
+    {
+      "id": 515,
+      "word": "quarteto",
+      "tabu": [
+        "quatro",
+        "conjunto",
+        "música",
+        "grupo",
+        "cantores"
+      ]
+    },
+    {
+      "id": 516,
+      "word": "suéter",
+      "tabu": [
+        "vestir",
+        "frio",
+        "tricô",
+        "lã",
+        "malha"
+      ]
+    },
+    {
+      "id": 17,
+      "word": "barata",
+      "tabu": [
+        "bicho",
+        "nojento",
+        "comida",
+        "cozinha",
+        "inseto"
+      ]
+    },
+    {
+      "id": 18,
+      "word": "bainha",
+      "tabu": [
+        "botão",
+        "vestir",
+        "calças",
+        "costurar",
+        "ponto"
+      ]
+    },
+    {
+      "id": 19,
+      "word": "farol",
+      "tabu": [
+        "carro",
+        "luz",
+        "trânsito",
+        "embarcação",
+        "neblina"
+      ]
+    },
+    {
+      "id": 20,
+      "word": "pinheiro",
+      "tabu": [
+        "pendurar",
+        "árvore",
+        "Natal",
+        "verde",
+        "embaixo"
+      ]
+    },
+    {
+      "id": 21,
+      "word": "lápis",
+      "tabu": [
+        "grafite",
+        "escrever",
+        "borracha",
+        "apontar",
+        "caneta"
+      ]
+    },
+    {
+      "id": 22,
+      "word": "ponto de interrogação",
+      "tabu": [
+        "pontuação",
+        "sentença",
+        "exclamação",
+        "ponto",
+        "pergunta"
+      ]
+    },
+    {
+      "id": 23,
+      "word": "resgate",
+      "tabu": [
+        "sequestro",
+        "dinheiro",
+        "refém",
+        "pagamento",
+        "cativeiro"
+      ]
+    },
+    {
+      "id": 24,
+      "word": "tímido",
+      "tabu": [
+        "acanhada",
+        "retraído",
+        "vergonha",
+        "quieto",
+        "sociável"
+      ]
+    },
+    {
+      "id": 25,
+      "word": "sede",
+      "tabu": [
+        "beber",
+        "seco",
+        "água",
+        "saciar",
+        "líquido"
+      ]
+    },
+    {
+      "id": 26,
+      "word": "troféu",
+      "tabu": [
+        "taça",
+        "campeonato",
+        "recompensa",
+        "ganhar",
+        "esportes"
+      ]
+    },
+    {
+      "id": 27,
+      "word": "onda",
+      "tabu": [
+        "praia",
+        "pegar",
+        "surfe",
+        "mar",
+        "prancha"
+      ]
+    },
+    {
+      "id": 28,
+      "word": "mergulhar",
+      "tabu": [
+        "mar",
+        "nadar",
+        "piscina",
+        "água",
+        "afundar"
+      ]
+    },
+    {
+      "id": 29,
+      "word": "guarda-chuva",
+      "tabu": [
+        "guarda-sol",
+        "chuva",
+        "praia",
+        "seca",
+        "molhar"
+      ]
+    },
+    {
+      "id": 30,
+      "word": "aniversário de casamento",
+      "tabu": [
+        "comemorar",
+        "matrimônio",
+        "marido",
+        "esposa",
+        "celebrar"
+      ]
+    },
+    {
+      "id": 31,
+      "word": "legenda",
+      "tabu": [
+        "palavras",
+        "tela",
+        "tradução",
+        "cinema",
+        "filme"
+      ]
+    },
+    {
+      "id": 32,
+      "word": "giz de cera",
+      "tabu": [
+        "pintar",
+        "crianças",
+        "desenho",
+        "garotada",
+        "livro de colorir"
+      ]
+    },
+    {
+      "id": 517,
+      "word": "maçã",
+      "tabu": [
+        "vermelho",
+        "fruta",
+        "torta",
+        "cidra",
+        "caroço"
+      ]
+    },
+    {
+      "id": 518,
+      "word": "moqueca",
+      "tabu": [
+        "comida",
+        "peixe",
+        "camarão",
+        "Bahia",
+        "molho"
+      ]
+    },
+    {
+      "id": 519,
+      "word": "divórcio",
+      "tabu": [
+        "ex",
+        "casamento",
+        "separação",
+        "pessoa",
+        "desquite"
+      ]
+    },
+    {
+      "id": 520,
+      "word": "graxa",
+      "tabu": [
+        "pasta",
+        "óleo",
+        "fritura",
+        "lubrificar",
+        "sapato"
+      ]
+    },
+    {
+      "id": 521,
+      "word": "paciente",
+      "tabu": [
+        "doente",
+        "médico",
+        "hospital",
+        "enfermeira",
+        "espera"
+      ]
+    },
+    {
+      "id": 522,
+      "word": "sushi",
+      "tabu": [
+        "peixe",
+        "cru",
+        "Japão",
+        "sashimi",
+        "não cozido"
+      ]
+    },
+    {
+      "id": 523,
+      "word": "barraca",
+      "tabu": [
+        "camping",
+        "escoteiro",
+        "dormir",
+        "fora",
+        "cabana"
+      ]
+    },
+    {
+      "id": 524,
+      "word": "pudim",
+      "tabu": [
+        "sobremesa",
+        "chocolate",
+        "leite",
+        "gelatina",
+        "doce"
+      ]
+    },
+    {
+      "id": 525,
+      "word": "dentadura",
+      "tabu": [
+        "prótese",
+        "dente",
+        "boca",
+        "falso",
+        "dentista"
+      ]
+    },
+    {
+      "id": 526,
+      "word": "confúcio",
+      "tabu": [
+        "sábio",
+        "dizeres",
+        "chinês",
+        "filósofo",
+        "provérbio"
+      ]
+    },
+    {
+      "id": 527,
+      "word": "cartão postal",
+      "tabu": [
+        "correio",
+        "foto",
+        "selo",
+        "férias",
+        "enviar"
+      ]
+    },
+    {
+      "id": 528,
+      "word": "cavaquinho",
+      "tabu": [
+        "violão",
+        "música",
+        "instrumento",
+        "corda",
+        "pagode"
+      ]
+    },
+    {
+      "id": 529,
+      "word": "calda",
+      "tabu": [
+        "chocolate",
+        "sorvete",
+        "cobertura",
+        "doce",
+        "sundae"
+      ]
+    },
+    {
+      "id": 530,
+      "word": "meia-noite",
+      "tabu": [
+        "24",
+        "Ano-novo",
+        "meio-dia",
+        "hora",
+        "lobisomem"
+      ]
+    },
+    {
+      "id": 531,
+      "word": "sombra",
+      "tabu": [
+        "luz",
+        "sol",
+        "olho",
+        "posição",
+        "fazer"
+      ]
+    },
+    {
+      "id": 532,
+      "word": "máquina de escrever",
+      "tabu": [
+        "tecla",
+        "escritório",
+        "carta",
+        "secretária",
+        "datilografar"
+      ]
+    }
+  ]
+}
