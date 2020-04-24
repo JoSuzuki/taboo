@@ -703,6 +703,358 @@
         "secretária",
         "datilografar"
       ]
+    },
+    {
+      "id": 33,
+      "word": "estreia",
+      "tabu": [
+        "cinema",
+        "inauguração",
+        "primeiro",
+        "público",
+        "início"
+      ]
+    },
+    {
+      "id": 34,
+      "word": "estatua",
+      "tabu": [
+        "parado",
+        "mover",
+        "mexer",
+        "mármore",
+        "ficar"
+      ]
+    },
+    {
+      "id": 35,
+      "word": "advogado",
+      "tabu": [
+        "direito",
+        "tribunal",
+        "processo",
+        "julgamento",
+        "prisão"
+      ]
+    },
+    {
+      "id": 36,
+      "word": "baforada",
+      "tabu": [
+        "cigarro",
+        "fumaça",
+        "dragão",
+        "fumar",
+        "charuto"
+      ]
+    },
+    {
+      "id": 37,
+      "word": "gambá",
+      "tabu": [
+        "animal",
+        "listra",
+        "fedor",
+        "branco",
+        "cheiro"
+      ]
+    },
+    {
+      "id": 38,
+      "word": "tênis",
+      "tabu": [
+        "alçado",
+        "corrida",
+        "cadarço",
+        "cano alto",
+        "esporte"
+      ]
+    },
+    {
+      "id": 39,
+      "word": "universidade",
+      "tabu": [
+        "graduação",
+        "campus",
+        "professor",
+        "faculdade",
+        "escola"
+      ]
+    },
+    {
+      "id": 40,
+      "word": "geléia",
+      "tabu": [
+        "doce",
+        "café da manhã",
+        "pão",
+        "fruta",
+        "torrada"
+      ]
+    },
+    {
+      "id": 41,
+      "word": "fralda",
+      "tabu": [
+        "fedido",
+        "pano",
+        "descartável",
+        "bebê",
+        "assadura"
+      ]
+    },
+    {
+      "id": 42,
+      "word": "gramado",
+      "tabu": [
+        "celeiro",
+        "capim",
+        "jardim",
+        "verde",
+        "casa"
+      ]
+    },
+    {
+      "id": 43,
+      "word": "apartamento",
+      "tabu": [
+        "flat",
+        "aluguel",
+        "morar",
+        "casa",
+        "prédio"
+      ]
+    },
+    {
+      "id": 44,
+      "word": "víbora",
+      "tabu": [
+        "cobra",
+        "Cleópatra",
+        "veneno",
+        "picada",
+        "Egito"
+      ]
+    },
+    {
+      "id": 45,
+      "word": "smoking",
+      "tabu": [
+        "formal",
+        "gravataborboleta",
+        "terno",
+        "paletó",
+        "festa"
+      ]
+    },
+    {
+      "id": 46,
+      "word": "carpinteiro",
+      "tabu": [
+        "marceneiro",
+        "montar",
+        "madeira",
+        "construir",
+        "ferramenta"
+      ]
+    },
+    {
+      "id": 47,
+      "word": "coruja",
+      "tabu": [
+        "pássaro",
+        "sabedoria",
+        "penas",
+        "noite",
+        "árvore"
+      ]
+    },
+    {
+      "id": 48,
+      "word": "sinal",
+      "tabu": [
+        "mão",
+        "vire",
+        "placa",
+        "acender",
+        "trânsito"
+      ]
+    },
+    {
+      "id": 533,
+      "word": "carrinho de bebê",
+      "tabu": [
+        "neném",
+        "carro",
+        "andar",
+        "roda",
+        "fora"
+      ]
+    },
+    {
+      "id": 534,
+      "word": "néon",
+      "tabu": [
+        "luz",
+        "propaganda",
+        "placas",
+        "tubo",
+        "gás"
+      ]
+    },
+    {
+      "id": 535,
+      "word": "embriagado",
+      "tabu": [
+        "bêbado",
+        "intoxicado",
+        "chapado",
+        "álcool",
+        "sóõbrio"
+      ]
+    },
+    {
+      "id": 536,
+      "word": "periquito",
+      "tabu": [
+        "passarinho",
+        "canário",
+        "gaiola",
+        "animal",
+        "pena"
+      ]
+    },
+    {
+      "id": 537,
+      "word": "samurai",
+      "tabu": [
+        "Japão",
+        "espada",
+        "guerreiro",
+        "soldado",
+        "honra"
+      ]
+    },
+    {
+      "id": 538,
+      "word": "costela",
+      "tabu": [
+        "churrasco",
+        "tórax",
+        "comida",
+        "osso",
+        "costeleta"
+      ]
+    },
+    {
+      "id": 539,
+      "word": "gargalhada",
+      "tabu": [
+        "forte",
+        "he he",
+        "risada",
+        "sorriso",
+        "piada"
+      ]
+    },
+    {
+      "id": 540,
+      "word": "corte",
+      "tabu": [
+        "juiz",
+        "tribunal",
+        "julgamento",
+        "júri",
+        "réu"
+      ]
+    },
+    {
+      "id": 541,
+      "word": "salvador",
+      "tabu": [
+        "Bahia",
+        "trio elétrico",
+        "Elevador Lacerda",
+        "Pelourinho",
+        "Carnaval"
+      ]
+    },
+    {
+      "id": 542,
+      "word": "snorkel",
+      "tabu": [
+        "nadar",
+        "pé-de-pato",
+        "água",
+        "respirar",
+        "mergulhar"
+      ]
+    },
+    {
+      "id": 543,
+      "word": "búfalo",
+      "tabu": [
+        "grande",
+        "animal",
+        "Bill",
+        "boi",
+        "mozarela"
+      ]
+    },
+    {
+      "id": 544,
+      "word": "zorro",
+      "tabu": [
+        "Tonto",
+        "preto",
+        "cavalo",
+        "máscara",
+        "televisão"
+      ]
+    },
+    {
+      "id": 545,
+      "word": "jaqueta",
+      "tabu": [
+        "casaco",
+        "couro",
+        "usar",
+        "roupa",
+        "jeans"
+      ]
+    },
+    {
+      "id": 546,
+      "word": "relógio de pulso",
+      "tabu": [
+        "ver",
+        "tempo",
+        "pulso",
+        "hora",
+        "usar"
+      ]
+    },
+    {
+      "id": 547,
+      "word": "boina",
+      "tabu": [
+        "drinque",
+        "França",
+        "capuz",
+        "cabeça",
+        "artista"
+      ]
+    },
+    {
+      "id": 548,
+      "word": "barman",
+      "tabu": [
+        "drinque",
+        "coqueteleira",
+        "álcool",
+        "servir",
+        "fazer"
+      ]
     }
   ]
 }
