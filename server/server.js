@@ -68,7 +68,10 @@ io.on("connection", function (socket) {
         team: TEAMS[room.players.length % 2],
       });
     } else {
+      const cardsCopy = cards.cards.slice();
+      shuffleCards(cardsCopy);
       room = {
+        cards: cardsCopy,
         players: [{ ...player, team: TEAMS[0] }],
         gameState: GAME_STATE.WAITING,
         round: {
@@ -112,7 +115,7 @@ io.on("connection", function (socket) {
   socket.on(CLIENT_EVENTS.START_ROUND, function(data) {
     const room = rooms[data.roomName];
     room.round.state = ROUND_STATE.PLAYING;
-    const card = getRandomCard();
+    const card = getRandomCard(room.cards);
     io.in(data.roomName).emit(SERVER_EVENTS.ROUND_STARTED, { round: room.round });
     setTimeout(() => {
       room.round.number += 1;
@@ -129,7 +132,7 @@ io.on("connection", function (socket) {
 
   socket.on(CLIENT_EVENTS.SCORE, function (data) {
     const room = rooms[data.roomName];
-    const card = getRandomCard();
+    const card = getRandomCard(room.cards);
     if (room.round.speaker.id === socket.id) {
       room.scores[room.round.speaker.team] += 1;
       io.to(room.round.watcher.id).emit(SERVER_EVENTS.DEAL_CARD, { card });
@@ -142,7 +145,7 @@ io.on("connection", function (socket) {
 
   socket.on(CLIENT_EVENTS.SKIP, function (data) {
     const room = rooms[data.roomName];
-    const card = getRandomCard();
+    const card = getRandomCard(room.cards);
     if (room.round.speaker.id === socket.id) {
       io.to(room.round.watcher.id).emit(SERVER_EVENTS.DEAL_CARD, { card });
       io.to(room.round.speaker.id).emit(SERVER_EVENTS.DEAL_CARD, { card });
@@ -151,7 +154,7 @@ io.on("connection", function (socket) {
 
   socket.on(CLIENT_EVENTS.INVALIDATE, function (data) {
     const room = rooms[data.roomName];
-    const card = getRandomCard();
+    const card = getRandomCard(room.cards);
     if (room.round.watcher.id === socket.id) {
       room.scores[room.round.watcher.team] += 1;
       io.to(room.round.watcher.id).emit(SERVER_EVENTS.DEAL_CARD, { card });
@@ -163,7 +166,14 @@ io.on("connection", function (socket) {
   });
 });
 
-const getRandomCard = () => {
-  const card = cards.cards[Math.floor(Math.random() * cards.cards.length)];
-  return card;
+const getRandomCard = (cards) => {
+  console.log(cards.length)
+  return cards.pop();
+}
+
+function shuffleCards(cards) {
+  for (let i = cards.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [cards[i], cards[j]] = [cards[j], cards[i]];
+  }
 }
