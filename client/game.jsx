@@ -240,12 +240,14 @@ const Round = ({ roomName, round, player, card }) => {
 const Card = ({ card }) => {
   console.log(card);
   return (
-    <React.Fragment>
+    <div style={{ padding: '40px', display: 'flex', flexDirection: 'column', alignItems: 'center', border: '1px solid blue', borderRadius: '8px', margin: '20px' }}>
       <div>Card: {card.id}</div>
-      <div>Palavra: {card.word}</div>
-      <div>Taboos: </div>
+      <div style={{ fontSize: '20px' }}>Palavra:</div>
+      <div style={{ fontSize: '20px', fontWeight: 'bold' }}>{card.word.toUpperCase()}</div>
+      <div style={{ borderTop: '1px solid gray' }}></div>
+      <div>Taboos:</div>
       {card.tabu.map(tabu => <div key={tabu}>{tabu}</div>)}
-    </React.Fragment>
+    </div>
   );
 };
 
