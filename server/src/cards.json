@@ -1,0 +1,5646 @@
+[
+  {
+    "id": 1,
+    "word": "clipe",
+    "tabu": [
+      "papel",
+      "escritório",
+      "grampo",
+      "metal",
+      "junto"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "pasta",
+    "tabu": [
+      "trabalho",
+      "papéis",
+      "negócios",
+      "carregar",
+      "executivo"
+    ]
+  },
+  {
+    "id": 3,
+    "word": "âncora",
+    "tabu": [
+      "navio",
+      "barco",
+      "noticiário",
+      "jogar",
+      "içsar"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "inteligente",
+    "tabu": [
+      "burro",
+      "esperto",
+      "intelectual",
+      "brilhante",
+      "estúpido"
+    ]
+  },
+  {
+    "id": 5,
+    "word": "software",
+    "tabu": [
+      "programa",
+      "computador",
+      "instalar",
+      "disquete/CD-ROM",
+      "linguagem"
+    ]
+  },
+  {
+    "id": 6,
+    "word": "maracujá",
+    "tabu": [
+      "rugas",
+      "azedo",
+      "semente",
+      "fruta",
+      "amarelo"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "prisão",
+    "tabu": [
+      "cadeia",
+      "grades",
+      "cárcere",
+      "cela",
+      "criminoso"
+    ]
+  },
+  {
+    "id": 8,
+    "word": "roxo",
+    "tabu": [
+      "cor",
+      "azul",
+      "violeta",
+      "raiva",
+      "lavanda"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "austrália",
+    "tabu": [
+      "canguru",
+      "Sidnei",
+      "coala",
+      "Crocodilo Dundee",
+      "Oceania"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "tapa",
+    "tabu": [
+      "cabeça",
+      "costas",
+      "olho",
+      "mão",
+      "briga"
+    ]
+  },
+  {
+    "id": 11,
+    "word": "bilhar",
+    "tabu": [
+      "mesa",
+      "jogo",
+      "caçapa",
+      "bola",
+      "taco"
+    ]
+  },
+  {
+    "id": 12,
+    "word": "champanhe",
+    "tabu": [
+      "vinho",
+      "bolhas",
+      "rolha",
+      "brinde",
+      "Dom Perignon"
+    ]
+  },
+  {
+    "id": 13,
+    "word": "caratê",
+    "tabu": [
+      "chute",
+      "artes marciais",
+      "faixa",
+      "mão",
+      "Kid"
+    ]
+  },
+  {
+    "id": 14,
+    "word": "cenário",
+    "tabu": [
+      "vista",
+      "beleza",
+      "panorama",
+      "paisagem",
+      "mudança"
+    ]
+  },
+  {
+    "id": 15,
+    "word": "vagão",
+    "tabu": [
+      "engate",
+      "estação",
+      "puxar",
+      "trem",
+      "trilho"
+    ]
+  },
+  {
+    "id": 16,
+    "word": "cortador de grama",
+    "tabu": [
+      "jardim",
+      "cortar",
+      "aparar",
+      "grama/mato",
+      "verde"
+    ]
+  },
+  {
+    "id": 501,
+    "word": "metralhadora",
+    "tabu": [
+      "automática",
+      "arma",
+      "armamento",
+      "UZI",
+      "tiro"
+    ]
+  },
+  {
+    "id": 502,
+    "word": "radiografia",
+    "tabu": [
+      "raio X",
+      "exame",
+      "hospital",
+      "osso",
+      "fratura"
+    ]
+  },
+  {
+    "id": 503,
+    "word": "envelhecido",
+    "tabu": [
+      "antigo",
+      "embolorado",
+      "seco",
+      "uísque",
+      "fresco"
+    ]
+  },
+  {
+    "id": 504,
+    "word": "tesouro",
+    "tabu": [
+      "enterrado",
+      "ilha",
+      "ouro",
+      "baú",
+      "pirata"
+    ]
+  },
+  {
+    "id": 505,
+    "word": "congresso",
+    "tabu": [
+      "câmara",
+      "senado",
+      "deputados",
+      "Brasília",
+      "legislativo"
+    ]
+  },
+  {
+    "id": 506,
+    "word": "lama",
+    "tabu": [
+      "sujo",
+      "terra",
+      "umidade",
+      "água",
+      "chuva"
+    ]
+  },
+  {
+    "id": 507,
+    "word": "bacon",
+    "tabu": [
+      "porco",
+      "comer",
+      "toucinho",
+      "gordura",
+      "ovos"
+    ]
+  },
+  {
+    "id": 508,
+    "word": "rena",
+    "tabu": [
+      "Natal",
+      "Papai Noel",
+      "presente",
+      "chaminé",
+      "trenó"
+    ]
+  },
+  {
+    "id": 509,
+    "word": "caubói",
+    "tabu": [
+      "chapéu",
+      "cavalo",
+      "rodeio",
+      "peão",
+      "Barretos"
+    ]
+  },
+  {
+    "id": 510,
+    "word": "depressão",
+    "tabu": [
+      "tristeza",
+      "melancolia",
+      "desânimo",
+      "crise",
+      "doença"
+    ]
+  },
+  {
+    "id": 511,
+    "word": "uva",
+    "tabu": [
+      "roxo",
+      "vinho",
+      "Itália",
+      "cacho",
+      "fruta"
+    ]
+  },
+  {
+    "id": 512,
+    "word": "coador",
+    "tabu": [
+      "fazer",
+      "peneira",
+      "escorrer",
+      "água",
+      "café"
+    ]
+  },
+  {
+    "id": 513,
+    "word": "cachoeira",
+    "tabu": [
+      "catarata",
+      "água",
+      "rio",
+      "queda",
+      "Iguaçu"
+    ]
+  },
+  {
+    "id": 514,
+    "word": "impedimento",
+    "tabu": [
+      "futebol",
+      "jogador",
+      "zagueiro",
+      "lançamento",
+      "passe"
+    ]
+  },
+  {
+    "id": 515,
+    "word": "quarteto",
+    "tabu": [
+      "quatro",
+      "conjunto",
+      "música",
+      "grupo",
+      "cantores"
+    ]
+  },
+  {
+    "id": 516,
+    "word": "suéter",
+    "tabu": [
+      "vestir",
+      "frio",
+      "tricô",
+      "lã",
+      "malha"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "barata",
+    "tabu": [
+      "bicho",
+      "nojento",
+      "comida",
+      "cozinha",
+      "inseto"
+    ]
+  },
+  {
+    "id": 18,
+    "word": "bainha",
+    "tabu": [
+      "botão",
+      "vestir",
+      "calças",
+      "costurar",
+      "ponto"
+    ]
+  },
+  {
+    "id": 19,
+    "word": "farol",
+    "tabu": [
+      "carro",
+      "luz",
+      "trânsito",
+      "embarcação",
+      "neblina"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "pinheiro",
+    "tabu": [
+      "pendurar",
+      "árvore",
+      "Natal",
+      "verde",
+      "embaixo"
+    ]
+  },
+  {
+    "id": 21,
+    "word": "lápis",
+    "tabu": [
+      "grafite",
+      "escrever",
+      "borracha",
+      "apontar",
+      "caneta"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "ponto de interrogação",
+    "tabu": [
+      "pontuação",
+      "sentença",
+      "exclamação",
+      "ponto",
+      "pergunta"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "resgate",
+    "tabu": [
+      "sequestro",
+      "dinheiro",
+      "refém",
+      "pagamento",
+      "cativeiro"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "tímido",
+    "tabu": [
+      "acanhada",
+      "retraído",
+      "vergonha",
+      "quieto",
+      "sociável"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "sede",
+    "tabu": [
+      "beber",
+      "seco",
+      "água",
+      "saciar",
+      "líquido"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "troféu",
+    "tabu": [
+      "taça",
+      "campeonato",
+      "recompensa",
+      "ganhar",
+      "esportes"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "onda",
+    "tabu": [
+      "praia",
+      "pegar",
+      "surfe",
+      "mar",
+      "prancha"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "mergulhar",
+    "tabu": [
+      "mar",
+      "nadar",
+      "piscina",
+      "água",
+      "afundar"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "guarda-chuva",
+    "tabu": [
+      "guarda-sol",
+      "chuva",
+      "praia",
+      "seca",
+      "molhar"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "aniversário de casamento",
+    "tabu": [
+      "comemorar",
+      "matrimônio",
+      "marido",
+      "esposa",
+      "celebrar"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "legenda",
+    "tabu": [
+      "palavras",
+      "tela",
+      "tradução",
+      "cinema",
+      "filme"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "giz de cera",
+    "tabu": [
+      "pintar",
+      "crianças",
+      "desenho",
+      "garotada",
+      "livro de colorir"
+    ]
+  },
+  {
+    "id": 517,
+    "word": "maçã",
+    "tabu": [
+      "vermelho",
+      "fruta",
+      "torta",
+      "cidra",
+      "caroço"
+    ]
+  },
+  {
+    "id": 518,
+    "word": "moqueca",
+    "tabu": [
+      "comida",
+      "peixe",
+      "camarão",
+      "Bahia",
+      "molho"
+    ]
+  },
+  {
+    "id": 519,
+    "word": "divórcio",
+    "tabu": [
+      "ex",
+      "casamento",
+      "separação",
+      "pessoa",
+      "desquite"
+    ]
+  },
+  {
+    "id": 520,
+    "word": "graxa",
+    "tabu": [
+      "pasta",
+      "óleo",
+      "fritura",
+      "lubrificar",
+      "sapato"
+    ]
+  },
+  {
+    "id": 521,
+    "word": "paciente",
+    "tabu": [
+      "doente",
+      "médico",
+      "hospital",
+      "enfermeira",
+      "espera"
+    ]
+  },
+  {
+    "id": 522,
+    "word": "sushi",
+    "tabu": [
+      "peixe",
+      "cru",
+      "Japão",
+      "sashimi",
+      "não cozido"
+    ]
+  },
+  {
+    "id": 523,
+    "word": "barraca",
+    "tabu": [
+      "camping",
+      "escoteiro",
+      "dormir",
+      "fora",
+      "cabana"
+    ]
+  },
+  {
+    "id": 524,
+    "word": "pudim",
+    "tabu": [
+      "sobremesa",
+      "chocolate",
+      "leite",
+      "gelatina",
+      "doce"
+    ]
+  },
+  {
+    "id": 525,
+    "word": "dentadura",
+    "tabu": [
+      "prótese",
+      "dente",
+      "boca",
+      "falso",
+      "dentista"
+    ]
+  },
+  {
+    "id": 526,
+    "word": "confúcio",
+    "tabu": [
+      "sábio",
+      "dizeres",
+      "chinês",
+      "filósofo",
+      "provérbio"
+    ]
+  },
+  {
+    "id": 527,
+    "word": "cartão postal",
+    "tabu": [
+      "correio",
+      "foto",
+      "selo",
+      "férias",
+      "enviar"
+    ]
+  },
+  {
+    "id": 528,
+    "word": "cavaquinho",
+    "tabu": [
+      "violão",
+      "música",
+      "instrumento",
+      "corda",
+      "pagode"
+    ]
+  },
+  {
+    "id": 529,
+    "word": "calda",
+    "tabu": [
+      "chocolate",
+      "sorvete",
+      "cobertura",
+      "doce",
+      "sundae"
+    ]
+  },
+  {
+    "id": 530,
+    "word": "meia-noite",
+    "tabu": [
+      "24",
+      "Ano-novo",
+      "meio-dia",
+      "hora",
+      "lobisomem"
+    ]
+  },
+  {
+    "id": 531,
+    "word": "sombra",
+    "tabu": [
+      "luz",
+      "sol",
+      "olho",
+      "posição",
+      "fazer"
+    ]
+  },
+  {
+    "id": 532,
+    "word": "máquina de escrever",
+    "tabu": [
+      "tecla",
+      "escritório",
+      "carta",
+      "secretária",
+      "datilografar"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "estreia",
+    "tabu": [
+      "cinema",
+      "inauguração",
+      "primeiro",
+      "público",
+      "início"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "estatua",
+    "tabu": [
+      "parado",
+      "mover",
+      "mexer",
+      "mármore",
+      "ficar"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "advogado",
+    "tabu": [
+      "direito",
+      "tribunal",
+      "processo",
+      "julgamento",
+      "prisão"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "baforada",
+    "tabu": [
+      "cigarro",
+      "fumaça",
+      "dragão",
+      "fumar",
+      "charuto"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "gambá",
+    "tabu": [
+      "animal",
+      "listra",
+      "fedor",
+      "branco",
+      "cheiro"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "tênis",
+    "tabu": [
+      "alçado",
+      "corrida",
+      "cadarço",
+      "cano alto",
+      "esporte"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "universidade",
+    "tabu": [
+      "graduação",
+      "campus",
+      "professor",
+      "faculdade",
+      "escola"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "geléia",
+    "tabu": [
+      "doce",
+      "café da manhã",
+      "pão",
+      "fruta",
+      "torrada"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "fralda",
+    "tabu": [
+      "fedido",
+      "pano",
+      "descartável",
+      "bebê",
+      "assadura"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "gramado",
+    "tabu": [
+      "celeiro",
+      "capim",
+      "jardim",
+      "verde",
+      "casa"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "apartamento",
+    "tabu": [
+      "flat",
+      "aluguel",
+      "morar",
+      "casa",
+      "prédio"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "víbora",
+    "tabu": [
+      "cobra",
+      "Cleópatra",
+      "veneno",
+      "picada",
+      "Egito"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "smoking",
+    "tabu": [
+      "formal",
+      "gravataborboleta",
+      "terno",
+      "paletó",
+      "festa"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "carpinteiro",
+    "tabu": [
+      "marceneiro",
+      "montar",
+      "madeira",
+      "construir",
+      "ferramenta"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "coruja",
+    "tabu": [
+      "pássaro",
+      "sabedoria",
+      "penas",
+      "noite",
+      "árvore"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "sinal",
+    "tabu": [
+      "mão",
+      "vire",
+      "placa",
+      "acender",
+      "trânsito"
+    ]
+  },
+  {
+    "id": 533,
+    "word": "carrinho de bebê",
+    "tabu": [
+      "neném",
+      "carro",
+      "andar",
+      "roda",
+      "fora"
+    ]
+  },
+  {
+    "id": 534,
+    "word": "néon",
+    "tabu": [
+      "luz",
+      "propaganda",
+      "placas",
+      "tubo",
+      "gás"
+    ]
+  },
+  {
+    "id": 535,
+    "word": "embriagado",
+    "tabu": [
+      "bêbado",
+      "intoxicado",
+      "chapado",
+      "álcool",
+      "sóõbrio"
+    ]
+  },
+  {
+    "id": 536,
+    "word": "periquito",
+    "tabu": [
+      "passarinho",
+      "canário",
+      "gaiola",
+      "animal",
+      "pena"
+    ]
+  },
+  {
+    "id": 537,
+    "word": "samurai",
+    "tabu": [
+      "Japão",
+      "espada",
+      "guerreiro",
+      "soldado",
+      "honra"
+    ]
+  },
+  {
+    "id": 538,
+    "word": "costela",
+    "tabu": [
+      "churrasco",
+      "tórax",
+      "comida",
+      "osso",
+      "costeleta"
+    ]
+  },
+  {
+    "id": 539,
+    "word": "gargalhada",
+    "tabu": [
+      "forte",
+      "he he",
+      "risada",
+      "sorriso",
+      "piada"
+    ]
+  },
+  {
+    "id": 540,
+    "word": "corte",
+    "tabu": [
+      "juiz",
+      "tribunal",
+      "julgamento",
+      "júri",
+      "réu"
+    ]
+  },
+  {
+    "id": 541,
+    "word": "salvador",
+    "tabu": [
+      "Bahia",
+      "trio elétrico",
+      "Elevador Lacerda",
+      "Pelourinho",
+      "Carnaval"
+    ]
+  },
+  {
+    "id": 542,
+    "word": "snorkel",
+    "tabu": [
+      "nadar",
+      "pé-de-pato",
+      "água",
+      "respirar",
+      "mergulhar"
+    ]
+  },
+  {
+    "id": 543,
+    "word": "búfalo",
+    "tabu": [
+      "grande",
+      "animal",
+      "Bill",
+      "boi",
+      "mozarela"
+    ]
+  },
+  {
+    "id": 544,
+    "word": "zorro",
+    "tabu": [
+      "Tonto",
+      "preto",
+      "cavalo",
+      "máscara",
+      "televisão"
+    ]
+  },
+  {
+    "id": 545,
+    "word": "jaqueta",
+    "tabu": [
+      "casaco",
+      "couro",
+      "usar",
+      "roupa",
+      "jeans"
+    ]
+  },
+  {
+    "id": 546,
+    "word": "relógio de pulso",
+    "tabu": [
+      "ver",
+      "tempo",
+      "pulso",
+      "hora",
+      "usar"
+    ]
+  },
+  {
+    "id": 547,
+    "word": "boina",
+    "tabu": [
+      "drinque",
+      "França",
+      "capuz",
+      "cabeça",
+      "artista"
+    ]
+  },
+  {
+    "id": 548,
+    "word": "barman",
+    "tabu": [
+      "drinque",
+      "coqueteleira",
+      "álcool",
+      "servir",
+      "fazer"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "PALMADA",
+    "tabu": ["bater", "acertar", "criança", "bumbum", "mão"]
+  },
+  {
+    "id": 50,
+    "word": "coincidência",
+    "tabu": ["igual", "ocorrer", "acontecer", "mesma coisa", "possibilidade"]
+  },
+  {
+    "id": 51,
+    "word": "mangueira",
+    "tabu": ["água", "borracha", "manga", "escola de samba", "irrigador"]
+  },
+  {
+    "id": 52,
+    "word": "APLAUSO",
+    "tabu": ["viva", "palmas", "ovação", "fim", "mãos"]
+  },
+  {
+    "id": 53,
+    "word": "CASCA",
+    "tabu": ["banana", "crosta", "pele", "capa", "laranja"]
+  },
+  {
+    "id": 54,
+    "word": "FALSIFICAÇÃO",
+    "tabu": ["falso", "imitação", "dinheiro", "pirata", "notas"]
+  },
+  {
+    "id": 55,
+    "word": "PONTO DE TRICÔ",
+    "tabu": ["fio", "agulhas", "pulôver", "crochê", "laçada"]
+  },
+  {
+    "id": 56,
+    "word": "ATLAS",
+    "tabu": ["mapa", "livro", "cartaz", "mundo", "globo"]
+  },
+  {
+    "id": 57,
+    "word": "CARTÃO DE CRÉDITO",
+    "tabu": ["plástico", "despesa", "pagamento", "Visa", "Mastercard"]
+  },
+  {
+    "id": 58,
+    "word": "OURO",
+    "tabu": ["aliança", "metal", "jóia", "prata", "quilate"]
+  },
+  {
+    "id": 59,
+    "word": "PIADA",
+    "tabu": ["trote", "anedota", "comediante", "gargalhadas", "engraçado"]
+  },
+  {
+    "id": 60,
+    "word": "GARÇOM",
+    "tabu": ["restaurante", "comida", "pratos", "refeição", "mesas"]
+  },
+  {
+    "id": 61,
+    "word": "MICROONDAS",
+    "tabu": ["comida", "utensílio", "forno", "cozinhar", "rápido"]
+  },
+  {
+    "id": 62,
+    "word": "ENTREGADOR DE JORNAL",
+    "tabu": ["jornal", "distribuir", "bicicleta", "entrega", "manhã"]
+  },
+  {
+    "id": 63,
+    "word": "SUOR",
+    "tabu": ["transpirar", "calor", "exercício", "umidade", "água"]
+  },
+  {
+    "id": 64,
+    "word": "ESTRESSE",
+    "tabu": ["nervoso", "tensão", "pressão", "ansiedade", "trabalho"]
+  },
+  {
+    "id": 65,
+    "word": "VIZINHO",
+    "tabu": ["morar", "rua", "quarteirão", "casa", "apartamento"]
+  },
+  {
+    "id": 66,
+    "word": "VELA",
+    "tabu": ["pavio", "cera", "chama", "queimar", "luz"]
+  },
+  {
+    "id": 67,
+    "word": "TURFE",
+    "tabu": ["cavalgar", "cavalo", "égua", "aposta", "jóquei"]
+  },
+  {
+    "id": 68,
+    "word": "TOALHA",
+    "tabu": ["secar", "absorver", "molhado", "banho", "banheiro"]
+  },
+  {
+    "id": 69,
+    "word": "YAKISOBA",
+    "tabu": ["comida", "macarrão", "chinês", "carne", "legumes"]
+  },
+  {
+    "id": 70,
+    "word": "AMARELO",
+    "tabu": ["covarde", "sol", "banana", "gema", "cor"]
+  },
+  {
+    "id": 71,
+    "word": "FOGÃO",
+    "tabu": ["forno", "fornalha", "boca", "cozinhar", "cozinha"]
+  },
+  {
+    "id": 72,
+    "word": "CID MOREIRA",
+    "tabu": ["Globo", "âncora", "jornal", "apresentador", "TV"]
+  },
+  {
+    "id": 73,
+    "word": "CONFETE",
+    "tabu": ["papel", "serpentina", "jogar", "Carnaval", "comemoração"]
+  },
+  {
+    "id": 74,
+    "word": "FILME",
+    "tabu": ["locadora", "cinema", "atores", "trailer", "TV"]
+  },
+  {
+    "id": 75,
+    "word": "PEGADOR DE   PANELA",
+    "tabu": ["luva", "mão", "quente", "forno", "queimar"]
+  },
+  {
+    "id": 76,
+    "word": "ISCA",
+    "tabu": ["minhoca", "pescaria", "anzol", "atrair", "pescar"]
+  },
+  {
+    "id": 77,
+    "word": "BEIRA-MAR",
+    "tabu": ["areia", "praia", "quebra-mar", "oceano", "caminhada"]
+  },
+  {
+    "id": 78,
+    "word": "CALAMINA",
+    "tabu": ["rosa", "picada", "hera venenosa", "coceira", "pele"]
+  },
+  {
+    "id": 79,
+    "word": "MULETA",
+    "tabu": ["quebrado", "perna", "bengala", "atadura", "andar"]
+  },
+  {
+    "id": 80,
+    "word": "DESCONGELAR",
+    "tabu": ["gelo", "freezer", "degelo", "derreter", "geladeira"]
+  },
+  {
+    "id": 81,
+    "word": "LOUCO",
+    "tabu": ["insano", "maluco", "bravo", "furioso", "Turma da Mônica"]
+  },
+  {
+    "id": 82,
+    "word": "AMÍDALA",
+    "tabu": ["garganta", "operação", "sorvete", "tirar", "cirurgia"]
+  },
+  {
+    "id": 83,
+    "word": "TONTURA",
+    "tabu": ["balançar", "bêbado", "andar", "trôpego", "reta"]
+  },
+  {
+    "id": 84,
+    "word": "TOALETE",
+    "tabu": ["vaso", "banheiro", "descarga", "sentar", "privada"]
+  },
+  {
+    "id": 85,
+    "word": "VULCÃO",
+    "tabu": ["erupção", "lava", "cinzas", "Havaí", "escorrer"]
+  },
+  {
+    "id": 86,
+    "word": "MODA",
+    "tabu": ["estilo", "mania passageira", "última", "popular", "moderno"]
+  },
+  {
+    "id": 87,
+    "word": "LITRO",
+    "tabu": ["unidade de medida", "quarto", "gasolina", "garrafa", "líquido"]
+  },
+  {
+    "id": 88,
+    "word": "MAÎTRE",
+    "tabu": ["restaurante", "mesa", "servir", "garçom", "comer"]
+  },
+  {
+    "id": 89,
+    "word": "VASSOURA",
+    "tabu": ["limpeza", "varrer", "piaçava", "bruxa", "chão"]
+  },
+  {
+    "id": 90,
+    "word": "SEDA",
+    "tabu": ["tecido", "pano", "leve", "fino", "roupa"]
+  },
+  {
+    "id": 91,
+    "word": "BATATA FRITA",
+    "tabu": ["hambúrguer", "salgada", "sal", "ketchup", "chips"]
+  },
+  {
+    "id": 92,
+    "word": "SÃO PAULO",
+    "tabu": ["estado", "cidade", "time", "futebol", "Parque Ibirapuera"]
+  },
+  {
+    "id": 93,
+    "word": "CEBOLINHA",
+    "tabu": ["Maurício de Sousa", "Mônica", "Magali", "Cascão", "Quadrinhos"]
+  },
+  {
+    "id": 94,
+    "word": "PÁ",
+    "tabu": ["ferramenta", "buraco", "cova", "areia", "lixo"]
+  },
+  {
+    "id": 95,
+    "word": "SURPRESA",
+    "tabu": ["surpreender", "festa", "aguardar", "aniversário", "desprevenido"]
+  },
+  {
+    "id": 96,
+    "word": "TERMÔMETRO",
+    "tabu": ["febre", "axila", "calor", "frio", "temperatura"]
+  },
+  {
+    "id": 97,
+    "word": "marinheiro",
+    "tabu": ["marujo", "Popeye", "marinha", "navio", "barco"]
+  },
+  {
+    "id": 98,
+    "word": "NEGATIVO",
+    "tabu": ["positivo", "menos", "filme", "foto", "atitude"]
+  },
+  {
+    "id": 99,
+    "word": "DICIONÁRIO",
+    "tabu": ["livro", "palavras", "definições", "Aurélio", "significado"]
+  },
+  {
+    "id": 100,
+    "word": "ZOOLÓGICO",
+    "tabu": ["animais", "jaulas", "selvagem", "ir", "ver"]
+  },
+  {
+    "id": 101,
+    "word": "MAESTRO",
+    "tabu": ["orquestra", "regente", "concerto", "batuta", "conduzir"]
+  },
+  {
+    "id": 102,
+    "word": "montanha",
+    "tabu": ["escalar", "cordilheira", "monte", "céu", "rochas"]
+  },
+  {
+    "id": 103,
+    "word": "PRECIOSO",
+    "tabu": ["raro", "notável", "caro", "adorável", "valioso"]
+  },
+  {
+    "id": 104,
+    "word": "BOLHA",
+    "tabu": ["queimadura", "machucado", "sapato", "pele", "atrito"]
+  },
+  {
+    "id": 105,
+    "word": "acampamento",
+    "tabu": ["fogueira", "madeira", "verão", "barraca", "escoteiro"]
+  },
+  {
+    "id": 106,
+    "word": "ENTRADA",
+    "tabu": ["aperitivo", "saída", "comer", "porta", "você"]
+  },
+  {
+    "id": 107,
+    "word": "RENUNCIAR",
+    "tabu": ["resignar", "parar", "dar", "cargo", "despedir"]
+  },
+  {
+    "id": 108,
+    "word": "TOQUE",
+    "tabu": ["mãos", "não", "sentir", "tato", "ponto"]
+  },
+  {
+    "id": 109,
+    "word": "MOINHO DE VENTO",
+    "tabu": ["Holanda", "holandês", "cata-vento", "pá/palheta", "girar"]
+  },
+  {
+    "id": 110,
+    "word": "AUTÓGRAFO",
+    "tabu": ["famoso", "assinatura", "escrever", "nome", "celebridade"]
+  },
+  {
+    "id": 111,
+    "word": "CORRIMÃO",
+    "tabu": ["escada", "parapeito", "degraus", "segurar", "escorregar"]
+  },
+  {
+    "id": 112,
+    "word": "VELHO OESTE",
+    "tabu": ["bangue-bangue", "caubói", "filme", "televisão", "ponto cardeal"]
+  },
+  {
+    "id": 113,
+    "word": "DECIFRAR",
+    "tabu": ["decodificar", "interpretar", "secreto", "ler", "figura"]
+  },
+  {
+    "id": 114,
+    "word": "REVISTA",
+    "tabu": ["ler", "matérias", "assinatura", "notícias", "fotos"]
+  },
+  {
+    "id": 115,
+    "word": "CAMPAINHA",
+    "tabu": ["telefone", "tocar", "portão", "som", "dedo"]
+  },
+  {
+    "id": 116,
+    "word": "assinatura",
+    "tabu": ["nome", "documento", "jornal", "revista", "autógrafo"]
+  },
+  {
+    "id": 117,
+    "word": "telescópio",
+    "tabu": ["estrelas", "observatório", "astrônomos", "planetas", "visão"]
+  },
+  {
+    "id": 118,
+    "word": "SEDE",
+    "tabu": ["edifício", "membro", "encontro", "clube", "associar"]
+  },
+  {
+    "id": 119,
+    "word": "hodômetro",
+    "tabu": ["quilômetros", "carro", "distância", "painel", "longe"]
+  },
+  {
+    "id": 120,
+    "word": "CARRINHO DE BEBÊ",
+    "tabu": ["neném", "filho", "empurrar", "puxar", "veículo"]
+  },
+  {
+    "id": 121,
+    "word": "embalagem",
+    "tabu": ["caixa", "Tetra Pak", "pacote", "embrulho", "produto"]
+  },
+  {
+    "id": 122,
+    "word": "trio ELÉTRICO",
+    "tabu": ["Carnaval", "som", "axé", "Bahia", "festa"]
+  },
+  {
+    "id": 123,
+    "word": "PRESENTE",
+    "tabu": ["embrulho", "lembrança", "Natal", "aniversário", "dar"]
+  },
+  {
+    "id": 124,
+    "word": "CIENTISTA",
+    "tabu": ["estudo", "laboratório", "experiência", "microscópio", "pesquisa"]
+  },
+  {
+    "id": 125,
+    "word": "condolência",
+    "tabu": ["cartão", "sentimento", "desculpa", "piedade", "compaixão"]
+  },
+  {
+    "id": 126,
+    "word": "RODEIO",
+    "tabu": ["peão", "cavalo", "boi", "caubói", "competir"]
+  },
+  {
+    "id": 127,
+    "word": "CARRO FUNERÁRIO",
+    "tabu": ["funeral", "caixão", "morte", "cadáver", "veículo"]
+  },
+  {
+    "id": 128,
+    "word": "HERÓI",
+    "tabu": ["admirar", "salvar", "esporte", "vida", "corajoso"]
+  },
+  {
+    "id": 129,
+    "word": "MALA",
+    "tabu": ["bagagem", "bolsa", "viagem", "chato", "fazer"]
+  },
+  {
+    "id": 130,
+    "word": "ESTACA",
+    "tabu": ["cerca", "bater", "contorno", "jardim", "madeira"]
+  },
+  {
+    "id": 131,
+    "word": "QUÍNTUPLO",
+    "tabu": ["bebês", "cinco", "nascer", "mais", "múltiplo"]
+  },
+  {
+    "id": 132,
+    "word": "TORPEDO",
+    "tabu": ["submarino", "navio", "míssil", "água", "explodir"]
+  },
+  {
+    "id": 133,
+    "word": "PANÇA",
+    "tabu": ["abdômen", "umbigo", "abdominal", "barriga", "ventre"]
+  },
+  {
+    "id": 134,
+    "word": "pneumonia",
+    "tabu": ["doença", "pulmão", "indisposição", "pegar", "frio"]
+  },
+  {
+    "id": 135,
+    "word": "VARANDA",
+    "tabu": ["balcão", "terraço", "pátio", "cobertura", "casa"]
+  },
+  {
+    "id": 136,
+    "word": "CARREIRA",
+    "tabu": ["profissão", "emprego", "vocação", "vida", "trabalho"]
+  },
+  {
+    "id": 137,
+    "word": "MONITOR",
+    "tabu": ["acompanhante", "supervisor", "adulto", "escola", "ir"]
+  },
+  {
+    "id": 138,
+    "word": "GEOMETRIA",
+    "tabu": ["ângulo", "matemática", "régua", "escola", "álgebra"]
+  },
+  {
+    "id": 139,
+    "word": "UNGÜENTO",
+    "tabu": ["esfregar", "loção", "creme", "medicação", "pele"]
+  },
+  {
+    "id": 140,
+    "word": "SOBRADO",
+    "tabu": ["casa", "andares", "nível", "morar", "pavimento"]
+  },
+  {
+    "id": 141,
+    "word": "ANTIGUIDADE",
+    "tabu": ["velho", "ancião", "obsoleto", "colecionador", "mobília"]
+  },
+  {
+    "id": 142,
+    "word": "PRÊMIO",
+    "tabu": ["honra", "troféu", "ganhar", "Oscar", "academia"]
+  },
+  {
+    "id": 143,
+    "word": "PONTE",
+    "tabu": ["Rio-Niterói", "da Amizade", "água", "atravessar", "rio"]
+  },
+  {
+    "id": 144,
+    "word": "AÇOUGUEIRO",
+    "tabu": ["carne", "abater", "vender", "faca", "churrasco"]
+  },
+  {
+    "id": 145,
+    "word": "LISTA NEGRA",
+    "tabu": ["relação", "marcar", "preto", "ruim", "confiança"]
+  },
+  {
+    "id": 146,
+    "word": "CANGURU",
+    "tabu": ["bolsa", "pulo", "animal", "Austrália", "salto"]
+  },
+  {
+    "id": 147,
+    "word": "FUTEBOL DE  BOTÃO",
+    "tabu": ["jogo", "mesa", "jogador", "tampa de relógio", "gol"]
+  },
+  {
+    "id": 148,
+    "word": "DOCE",
+    "tabu": ["açúcar", "padaria", "rosquinha", "sobremesa", "comer"]
+  },
+  {
+    "id": 149,
+    "word": "TROMBA",
+    "tabu": ["elefante", "emburrado", "nariz", "animal", "comprido"]
+  },
+  {
+    "id": 150,
+    "word": "INVISÍVEL",
+    "tabu": ["fantasma", "espírito", "aparecer", "transparente", "homem"]
+  },
+  {
+    "id": 151,
+    "word": "IMITAR",
+    "tabu": ["imitador", "copiar", "mímica", "parecido", "idêntico"]
+  },
+  {
+    "id": 152,
+    "word": "COLHEITA",
+    "tabu": ["plantação", "lua", "colher", "pegar", "outono"]
+  },
+  {
+    "id": 153,
+    "word": "ANZOL",
+    "tabu": ["peixe", "vara", "minhoca", "pescar", "peixe"]
+  },
+  {
+    "id": 154,
+    "word": "VUDU",
+    "tabu": ["boneco", "alfinete", "espetar", "zumbi", "maldição"]
+  },
+  {
+    "id": 155,
+    "word": "investimento",
+    "tabu": ["futuro", "finanças", "dinheiro", "economizar", "retorno"]
+  },
+  {
+    "id": 156,
+    "word": "claustrofobia",
+    "tabu": ["medo", "fechado", "sentimento", "preso", "pânico"]
+  },
+  {
+    "id": 157,
+    "word": "AURÉOLA",
+    "tabu": ["anjo", "céu", "bem", "cabeça", "asas"]
+  },
+  {
+    "id": 158,
+    "word": "PÍLULA",
+    "tabu": ["comprimido", "remédio", "cápsula", "engolir", "anticoncepcional"]
+  },
+  {
+    "id": 159,
+    "word": "SINAL DE PARE",
+    "tabu": ["encruzilhada", "cruzamento", "dirigir", "parar", "vermelho"]
+  },
+  {
+    "id": 160,
+    "word": "JUIZ",
+    "tabu": ["árbitro", "futebol", "esporte", "regra", "apitar"]
+  },
+  {
+    "id": 161,
+    "word": "EXÉRCITO",
+    "tabu": ["marinha", "soldado", "contingente", "serviço", "militar"]
+  },
+  {
+    "id": 162,
+    "word": "PICACHU",
+    "tabu": ["monstro", "amarelo", "desenho animado", "Pokémon", "choque"]
+  },
+  {
+    "id": 163,
+    "word": "BLOCO",
+    "tabu": ["Carnaval", "apartamento", "construção", "papel", "notas"]
+  },
+  {
+    "id": 164,
+    "word": "SAPATO",
+    "tabu": ["Pé", "calçado", "meia", "couro", "moda"]
+  },
+  {
+    "id": 165,
+    "word": "METRÔ",
+    "tabu": ["subterrâneo", "trem", "trilho", "cidade", "bilhete"]
+  },
+  {
+    "id": 166,
+    "word": "TEATRO",
+    "tabu": ["Broadway", "peça", "atores", "palco", "cinema"]
+  },
+  {
+    "id": 167,
+    "word": "brinquedo",
+    "tabu": ["brincar", "crianças", "jogo", "infantil", "diversão"]
+  },
+  {
+    "id": 168,
+    "word": "COMÉDIA",
+    "tabu": ["divertido", "piada", "risada", "sério", "tragédia"]
+  },
+  {
+    "id": 169,
+    "word": "ODOR",
+    "tabu": ["cheirar", "fedor", "aroma", "fragrância", "nariz"]
+  },
+  {
+    "id": 170,
+    "word": "BINGO",
+    "tabu": ["dinheiro", "carteia", "número", "jogo", "completar"]
+  },
+  {
+    "id": 171,
+    "word": "MOSTARDA",
+    "tabu": ["salsicha", "cachorro-quente", "condimento", "ketchup", "amarelo"]
+  },
+  {
+    "id": 172,
+    "word": "SIRENE",
+    "tabu": ["fogo", "polícia", "ambulância", "ouvir", "barulho"]
+  },
+  {
+    "id": 173,
+    "word": "CAIPIRINHA",
+    "tabu": ["gelo", "álcool", "pinga", "beber", "limão"]
+  },
+  {
+    "id": 174,
+    "word": "PANTANAL",
+    "tabu": ["água", "pescar", "Mato Grosso do Sul", "jacaré", "piranha"]
+  },
+  {
+    "id": 175,
+    "word": "COELHO",
+    "tabu": ["lebre", "ovo", "orelha", "animal", "Páscoa"]
+  },
+  {
+    "id": 176,
+    "word": "MÁSCARA",
+    "tabu": ["Halloween", "rosto", "ver", "cobrir", "usar"]
+  },
+  {
+    "id": 177,
+    "word": "DARDO",
+    "tabu": ["lançar", "arremessar", "alvo", "pontudo", "acertar"]
+  },
+  {
+    "id": 178,
+    "word": "AMOR",
+    "tabu": ["ódio", "gostar", "coração", "casamento", "apaixonar"]
+  },
+  {
+    "id": 179,
+    "word": "SUOR",
+    "tabu": ["sol", "calor", "transpirar", "umidade", "braço"]
+  },
+  {
+    "id": 180,
+    "word": "XADREZ",
+    "tabu": ["jogo", "tabuleiro", "rei", "torre", "cavalo"]
+  },
+  {
+    "id": 181,
+    "word": "CRIANÇA",
+    "tabu": ["menino(a)", "brinquedos", "bebê", "infantil", "moleque"]
+  },
+  {
+    "id": 182,
+    "word": "TORNADO",
+    "tabu": ["furacão", "vento", "funil", "tempestade", "ciclone"]
+  },
+  {
+    "id": 183,
+    "word": "MOLHADO",
+    "tabu": ["umidade", "seco", "água", "chuva", "ensopado"]
+  },
+  {
+    "id": 184,
+    "word": "ARMAÇÃO",
+    "tabu": ["borda", "barraca", "ilimitada", "óculos", "planejar"]
+  },
+  {
+    "id": 185,
+    "word": "CÓPIA",
+    "tabu": ["imitar", "mímica", "original", "duplicar", "Xerox"]
+  },
+  {
+    "id": 186,
+    "word": "MONOGRAMA",
+    "tabu": ["letras", "iniciais", "personalizar", "nome", "gravar"]
+  },
+  {
+    "id": 187,
+    "word": "RÉVEILLON",
+    "tabu": ["festa", "fogos de artifício", "janeiro", "dezembro", "meia-noite"]
+  },
+  {
+    "id": 188,
+    "word": "RABO-DE-CAVALO",
+    "tabu": ["penteado", "menina", "cabelo", "fita", "elástico"]
+  },
+  {
+    "id": 189,
+    "word": "BOLSA DE VALORES",
+    "tabu": ["queda", "Wall Street", "Dow Jones", "ações", "alta"]
+  },
+  {
+    "id": 190,
+    "word": "PLÁGIO",
+    "tabu": ["copiar", "roubar", "crédito", "palavra", "idéias"]
+  },
+  {
+    "id": 191,
+    "word": "ACIDENTE",
+    "tabu": ["erro", "carro", "quebrar", "tráfego", "dirigir"]
+  },
+  {
+    "id": 192,
+    "word": "BIGBEN",
+    "tabu": ["Londres", "relógio", "marco", "tempo", "Inglaterra"]
+  },
+  {
+    "id": 193,
+    "word": "LIVRO",
+    "tabu": ["estudar", "páginas", "romance", "livraria", "ler"]
+  },
+  {
+    "id": 194,
+    "word": "MANTEIGA",
+    "tabu": ["margarina", "passar", "laticínio", "amarelo", "pão"]
+  },
+  {
+    "id": 195,
+    "word": "DENTISTA",
+    "tabu": ["doutor", "dente", "obturação", "canal", "motor"]
+  },
+  {
+    "id": 196,
+    "word": "ROSQUINHA",
+    "tabu": ["coco", "buraco", "leite", "comer", "redondo"]
+  },
+  {
+    "id": 197,
+    "word": "BERINJELA",
+    "tabu": ["vegetal", "roxo", "legume", "comer", "crescer"]
+  },
+  {
+    "id": 198,
+    "word": "ESTÁTUA DA LIBERDADE",
+    "tabu": ["tocha", "Estados Unidos", "Nova York", "mulher", "monumento"]
+  },
+  {
+    "id": 199,
+    "word": "PASSARELA",
+    "tabu": ["modelo", "moda", "estilista", "roupa", "Gisele Bündchen"]
+  },
+  {
+    "id": 200,
+    "word": "BATMAN",
+    "tabu": ["Robin", "Gotham City", "super-herói", "capa", "carro"]
+  },
+  {
+    "id": 201,
+    "word": "QUEDA",
+    "tabu": ["bolsa de valores", "acidente", "avião", "cair", "livre"]
+  },
+  {
+    "id": 202,
+    "word": "CANETA",
+    "tabu": ["escrever", "esferográfica", "hidrográfica", "Bic", "tinta"]
+  },
+  {
+    "id": 203,
+    "word": "ABÓBORA",
+    "tabu": ["Halloween", "doce", "vela", "laranja", "Cindereia"]
+  },
+  {
+    "id": 204,
+    "word": "DESAJEITADO",
+    "tabu": ["habilidade", "descoordenado", "cair", "bobo", "pateta"]
+  },
+  {
+    "id": 205,
+    "word": "VITAMINA C",
+    "tabu": [
+      "sistema imunológico",
+      "resfriado",
+      "laranja",
+      "cítrico",
+      "pílulas"
+    ]
+  },
+  {
+    "id": 206,
+    "word": "RICO",
+    "tabu": ["milionário", "luxúria", "abastado", "riqueza", "dinheiro"]
+  },
+  {
+    "id": 207,
+    "word": "JORNADA",
+    "tabu": ["passeio", "excursão", "aventura", "estrela", "viagem"]
+  },
+  {
+    "id": 208,
+    "word": "CAMARÃO",
+    "tabu": [
+      "fruto do mar",
+      "aperitivo",
+      "pitu/sete barbas",
+      "crustáceo",
+      "lagosta"
+    ]
+  },
+  {
+    "id": 209,
+    "word": "SOLTEIRO",
+    "tabu": ["homem", "casar", "sozinho", "esposa", "namorar"]
+  },
+  {
+    "id": 210,
+    "word": "BEISEBOL",
+    "tabu": ["taco", "esporte", "base", "bolinha", "luva"]
+  },
+  {
+    "id": 211,
+    "word": "NOIVA",
+    "tabu": ["aliança", "noivo", "casar", "branco", "véu"]
+  },
+  {
+    "id": 212,
+    "word": "maria-fumaç",
+    "tabu": ["trem", "locomotiva", "vapor", "trilho", "primeiro"]
+  },
+  {
+    "id": 213,
+    "word": "GRILO",
+    "tabu": ["falante", "inseto", "bicho", "sorte", "hippie"]
+  },
+  {
+    "id": 214,
+    "word": "GOLFINHO",
+    "tabu": ["Flipper", "boto", "mamífero", "peixe", "mar"]
+  },
+  {
+    "id": 215,
+    "word": "CÁLICE",
+    "tabu": ["copo", "beber", "água", "taça", "cristal"]
+  },
+  {
+    "id": 216,
+    "word": "ORTODONTISTA",
+    "tabu": ["dentista", "aparelho", "dente", "boca", "doutor"]
+  },
+  {
+    "id": 217,
+    "word": "MAIONESE",
+    "tabu": ["Helmanns", "sanduíche", "hambúrguer", "passar", "hot dog"]
+  },
+  {
+    "id": 218,
+    "word": "SIMPLES",
+    "tabu": ["básico", "fácil", "difícil", "confuso", "humilde"]
+  },
+  {
+    "id": 219,
+    "word": "CALDO DE CANA",
+    "tabu": ["garapa", "caldo", "limão", "suco", "doce"]
+  },
+  {
+    "id": 220,
+    "word": "RUGA",
+    "tabu": ["prega", "linha", "velho", "pele", "pé-de-galinha"]
+  },
+  {
+    "id": 221,
+    "word": "DISCUSSÃO",
+    "tabu": ["debate", "briga", "disputa", "voz", "gritar"]
+  },
+  {
+    "id": 222,
+    "word": "BIGA",
+    "tabu": ["corrida", "Roma", "cavalo", "Ben-Hur", "rodas"]
+  },
+  {
+    "id": 223,
+    "word": "FIDEL CASTRO",
+    "tabu": ["charuto", "Cuba", "revolução", "barba", "farda"]
+  },
+  {
+    "id": 224,
+    "word": "FONDUE",
+    "tabu": ["chocolate", "garfo", "queijo", "molhar", "pão"]
+  },
+  {
+    "id": 225,
+    "word": "AZEITONA",
+    "tabu": ["verde", "óleo", "aperitivo", "martini", "caroço"]
+  },
+  {
+    "id": 226,
+    "word": "almanaque",
+    "tabu": ["Turma da Mônica", "Disney", "gibi", "histórias", "livro"]
+  },
+  {
+    "id": 227,
+    "word": "CARECA",
+    "tabu": ["cabeça", "cabelo", "Ronaldinho", "peruca", "raspar"]
+  },
+  {
+    "id": 228,
+    "word": "GERME",
+    "tabu": ["doença", "enfermidade", "vírus", "bactéria", "resfriado"]
+  },
+  {
+    "id": 229,
+    "word": "HOTEL",
+    "tabu": ["motel", "quarto", "check-in", "dormir", "estadia"]
+  },
+  {
+    "id": 230,
+    "word": "MARFIM",
+    "tabu": ["branco", "osso", "presa", "elefante", "dente"]
+  },
+  {
+    "id": 231,
+    "word": "PEBOLIM",
+    "tabu": ["totó", "futebol", "jogadores", "mesa", "ataque/defesa"]
+  },
+  {
+    "id": 232,
+    "word": "revolução",
+    "tabu": ["governo", "pessoas", "Francesa", "Industrial", "revolta"]
+  },
+  {
+    "id": 233,
+    "word": "FITA",
+    "tabu": ["crepe", "laço", "cassete", "vídeo", "Durex"]
+  },
+  {
+    "id": 234,
+    "word": "CHEFE",
+    "tabu": ["supervisor", "gerente", "emprego", "trabalhar", "patrão"]
+  },
+  {
+    "id": 235,
+    "word": "OVO",
+    "tabu": ["mexido", "gema", "galinha", "frito", "cozido"]
+  },
+  {
+    "id": 236,
+    "word": "ELEFANTE",
+    "tabu": ["animal", "África", "tromba", "marfim", "presa"]
+  },
+  {
+    "id": 237,
+    "word": "LAREIRA",
+    "tabu": ["lenha", "chaminé", "tijolo", "queimar", "madeira"]
+  },
+  {
+    "id": 238,
+    "word": "RISADA",
+    "tabu": ["gargalhada", "sorriso", "divertido", "piada", "cócega"]
+  },
+  {
+    "id": 239,
+    "word": "CONCHA",
+    "tabu": ["sopa", "mar", "molusco", "acústica", "feijão"]
+  },
+  {
+    "id": 240,
+    "word": "AVIÃO",
+    "tabu": ["asa", "voar", "decolar", "jato", "piloto"]
+  },
+  {
+    "id": 241,
+    "word": "CARTA",
+    "tabu": ["mandar", "baralho", "truco", "envelope", "jogar"]
+  },
+  {
+    "id": 242,
+    "word": "lanterninha",
+    "tabu": ["cinema", "cadeira", "filme", "iluminar", "enxergar"]
+  },
+  {
+    "id": 243,
+    "word": "DESENHO ANIMADO",
+    "tabu": ["história", "alegre", "Sábado", "televisão", "personagem"]
+  },
+  {
+    "id": 244,
+    "word": "CANIVETE",
+    "tabu": ["suiço", "escoteiro", "lâmina", "calça", "cortar"]
+  },
+  {
+    "id": 245,
+    "word": "bicho-preguiça",
+    "tabu": ["árvore", "devagar", "lento", "garras", "animal"]
+  },
+  {
+    "id": 246,
+    "word": "COSTA",
+    "tabu": ["oceano", "guarda", "terra", "água", "praia"]
+  },
+  {
+    "id": 247,
+    "word": "BICHANO",
+    "tabu": ["miau", "gato", "ronrom", "animal", "filhote"]
+  },
+  {
+    "id": 248,
+    "word": "ANIVERSÁRIO",
+    "tabu": ["feliz", "parabéns", "vela", "presente", "bolo"]
+  },
+  {
+    "id": 249,
+    "word": "DESLIGADO",
+    "tabu": ["ligado", "elétrico", "aparelho", "interruptor", "apagado"]
+  },
+  {
+    "id": 250,
+    "word": "CEGO",
+    "tabu": ["visão", "olho", "veneziana", "enxergar", "morcego"]
+  },
+  {
+    "id": 251,
+    "word": "TALAO DE CHEQUE",
+    "tabu": ["preencher", "pagar", "banco", "conta", "dinheiro"]
+  },
+  {
+    "id": 252,
+    "word": "NÓ",
+    "tabu": ["gravata", "corda", "barbante", "cadarço", "enroscar"]
+  },
+  {
+    "id": 253,
+    "word": "BOTO",
+    "tabu": ["Flipper", "golfinho", "cor-de-rosa", "água", "inteligente"]
+  },
+  {
+    "id": 254,
+    "word": "PÉ DE FEIJÃO",
+    "tabu": ["João", "gigante", "subir", "céu", "alimento"]
+  },
+  {
+    "id": 255,
+    "word": "PEGAJOSO",
+    "tabu": ["grudento", "cola", "chato", "pegar", "grudar"]
+  },
+  {
+    "id": 256,
+    "word": "INTROMETIDO",
+    "tabu": ["abelhudo", "intrometer", "curioso", "fofoca", "negócios"]
+  },
+  {
+    "id": 257,
+    "word": "negociante",
+    "tabu": ["dinheiro", "esperto", "vender", "comprar", "carro"]
+  },
+  {
+    "id": 258,
+    "word": "ENVELOPE",
+    "tabu": ["correspondência", "selo", "endereço", "carta", "fechar"]
+  },
+  {
+    "id": 259,
+    "word": "KAMIKASE",
+    "tabu": ["piloto", "aviador", "avião", "suicida", "japonês"]
+  },
+  {
+    "id": 260,
+    "word": "orquestra",
+    "tabu": ["sinfonia", "concerto", "maestro", "instrumentos", "músicos"]
+  },
+  {
+    "id": 261,
+    "word": "mortadela",
+    "tabu": ["pão", "lanche", "salame", "porco", "sanduíche"]
+  },
+  {
+    "id": 262,
+    "word": "REPRESA",
+    "tabu": ["abastecer", "água", "beber", "lago", "armazenar"]
+  },
+  {
+    "id": 263,
+    "word": "PARAFUSO",
+    "tabu": ["fixar", "bucha", "espiral", "rosca", "chave de fenda"]
+  },
+  {
+    "id": 264,
+    "word": "TÚNEL",
+    "tabu": ["subterrâneo", "do amor", "carros", "montanha", "buraco"]
+  },
+  {
+    "id": 265,
+    "word": "SORTE",
+    "tabu": ["dinheiro", "inesperado", "bom", "presente", "fortuna"]
+  },
+  {
+    "id": 266,
+    "word": "EMBAIXADOR",
+    "tabu": ["diplomata", "Nações Unidas", "país", "embaixada", "estrangeiro"]
+  },
+  {
+    "id": 267,
+    "word": "CAIPIRA",
+    "tabu": ["interior", "jeca", "roça", "sertanejo", "cidade"]
+  },
+  {
+    "id": 268,
+    "word": "MADEIRA",
+    "tabu": ["lenha", "floresta", "tora", "árvore", "construir"]
+  },
+  {
+    "id": 269,
+    "word": "PICLES",
+    "tabu": ["pote", "pepino", "vinagre", "nabo", "conserva"]
+  },
+  {
+    "id": 270,
+    "word": "CAVALO DE CORRIDA",
+    "tabu": ["puro-sangue", "Mangalarga", "aposta", "pista", "jóquei"]
+  },
+  {
+    "id": 271,
+    "word": "mau humor",
+    "tabu": ["azedo", "irritado", "carrancudo", "problemas", "jeito"]
+  },
+  {
+    "id": 272,
+    "word": "PERUCA",
+    "tabu": ["careca", "aplique", "implante", "cabelo", "cabeça"]
+  },
+  {
+    "id": 273,
+    "word": "CONVITE",
+    "tabu": ["casamento", "em mãos", "enviar", "festa", "amigo"]
+  },
+  {
+    "id": 274,
+    "word": "rio de janeiro",
+    "tabu": ["Corcovado", "Copacabana", "Pão de açúcar", "Ipanema", "praia"]
+  },
+  {
+    "id": 275,
+    "word": "HARÉM",
+    "tabu": ["mulheres", "sultão", "muitos", "sheik", "esposas"]
+  },
+  {
+    "id": 276,
+    "word": "MINGAU",
+    "tabu": ["papa", "maisena", "aveia", "comer", "criança"]
+  },
+  {
+    "id": 277,
+    "word": "depoimenTO",
+    "tabu": ["tribunal", "evidência", "testemunha", "dar", "juramento"]
+  },
+  {
+    "id": 278,
+    "word": "DUENDE",
+    "tabu": ["encantado", "gnomo", "pequeno", "Papai Noel", "acreditar"]
+  },
+  {
+    "id": 279,
+    "word": "BANDEIRA",
+    "tabu": ["verde", "amarelo", "país", "time", "agitar"]
+  },
+  {
+    "id": 280,
+    "word": "ESCORPIÃO",
+    "tabu": ["deserto", "picada", "rabo", "veneno", "signo"]
+  },
+  {
+    "id": 281,
+    "word": "GARRAFA TÉRMICA",
+    "tabu": ["garrafa", "quente", "frio", "café", "bebida"]
+  },
+  {
+    "id": 282,
+    "word": "TELHA",
+    "tabu": ["telhado", "casa", "em cima", "teto", "chuva"]
+  },
+  {
+    "id": 283,
+    "word": "VISTO",
+    "tabu": ["passaporte", "estrangeiro", "pedir", "viajar", "exterior"]
+  },
+  {
+    "id": 284,
+    "word": "DETETIVE",
+    "tabu": ["investigar", "crime", "pistas", "particular", "Sherlock Holmes"]
+  },
+  {
+    "id": 285,
+    "word": "adolescente",
+    "tabu": ["adulto", "criança", "puberdade", "jovem", "garoto"]
+  },
+  {
+    "id": 286,
+    "word": "MACHADO",
+    "tabu": ["índio", "ferramenta", "lenha", "madeira", "lenhador"]
+  },
+  {
+    "id": 287,
+    "word": "BICICLETA",
+    "tabu": ["duas rodas", "guidão", "pedal", "marcha", "andar"]
+  },
+  {
+    "id": 288,
+    "word": "CARBONO",
+    "tabu": ["nota fiscal", "preto", "sujar", "copiar", "papel"]
+  },
+  {
+    "id": 289,
+    "word": "CHOFER",
+    "tabu": ["volante", "motorista", "limusine", "carro", "uniforme"]
+  },
+  {
+    "id": 290,
+    "word": "CALDEIRÃO",
+    "tabu": ["sopa", "panela", "água", "ferver", "bruxa"]
+  },
+  {
+    "id": 291,
+    "word": "FÉRIAS",
+    "tabu": ["viagem", "trabalho", "fora", "verão", "passear"]
+  },
+  {
+    "id": 292,
+    "word": "GARRINCHA",
+    "tabu": ["futebol", "perna", "torta", "drible", "Botafogo"]
+  },
+  {
+    "id": 293,
+    "word": "BRASÃO",
+    "tabu": ["emblema", "cavaleiro", "família", "elmo", "escudo"]
+  },
+  {
+    "id": 294,
+    "word": "JAQUETA",
+    "tabu": ["casaco", "blusão", "vestir", "agasalho", "esporte"]
+  },
+  {
+    "id": 295,
+    "word": "aborrecido",
+    "tabu": ["triste", "infeliz", "boca", "rosto", "sorriso"]
+  },
+  {
+    "id": 296,
+    "word": "XAMPU",
+    "tabu": ["lavar", "cabelo", "ensaboar", "espuma", "condicionador"]
+  },
+  {
+    "id": 297,
+    "word": "VIRGEM",
+    "tabu": ["garota", "sexo", "jovem", "puro", "signo"]
+  },
+  {
+    "id": 298,
+    "word": "ÉTICA",
+    "tabu": ["valor", "político", "escrúpulo", "modelo", "moral"]
+  },
+  {
+    "id": 299,
+    "word": "ANATOMIA",
+    "tabu": ["corpo", "esqueleto", "músculo", "doutor", "estudar"]
+  },
+  {
+    "id": 300,
+    "word": "CAMELÔ",
+    "tabu": ["barraca", "ambulante", "muamba", "vendedor", "rua"]
+  },
+  {
+    "id": 301,
+    "word": "CASTOR",
+    "tabu": ["folha", "árvore", "animal", "represa", "dente"]
+  },
+  {
+    "id": 302,
+    "word": "ÁSIA",
+    "tabu": ["oriente", "continente", "China", "Europa", "terra"]
+  },
+  {
+    "id": 303,
+    "word": "CAFÉ DA MANHÃ",
+    "tabu": ["desjejum", "refeição", "comer", "almoço", "pão"]
+  },
+  {
+    "id": 304,
+    "word": "CALCULADORA",
+    "tabu": ["científica", "soma", "máquina", "matemática", "números"]
+  },
+  {
+    "id": 305,
+    "word": "PÁSCOA",
+    "tabu": ["feriado", "coelho", "ovos", "cristão", "cesta"]
+  },
+  {
+    "id": 306,
+    "word": "SABÃO",
+    "tabu": ["limpar", "lavar", "espuma", "lavanderia", "bolha"]
+  },
+  {
+    "id": 307,
+    "word": "SPUTNIK",
+    "tabu": ["satélite", "órbita", "russo", "União Soviética", "espaço"]
+  },
+  {
+    "id": 308,
+    "word": "SEXTA-FEIRA SANTA",
+    "tabu": ["bacalhau", "procissão", "Páscoa", "carne", "Sábado"]
+  },
+  {
+    "id": 309,
+    "word": "TABACO",
+    "tabu": ["cigarro", "folha", "mascar", "câncer", "fumar"]
+  },
+  {
+    "id": 310,
+    "word": "ESPORTISTA",
+    "tabu": ["campeonato", "competição", "atleta", "esporte", "jogar"]
+  },
+  {
+    "id": 311,
+    "word": "AQUÁRIO",
+    "tabu": ["signo", "peixe", "água", "mar", "vidro"]
+  },
+  {
+    "id": 312,
+    "word": "bailarina",
+    "tabu": ["dançarina", "sapatilha", "collant", "ponta", "Baryshnikov"]
+  },
+  {
+    "id": 313,
+    "word": "BANDANA",
+    "tabu": ["touca", "lenço", "pescoço", "usar", "cabeça"]
+  },
+  {
+    "id": 314,
+    "word": "CESTA",
+    "tabu": ["entrelaçar", "café da manhã", "basquete", "ovos", "lixo"]
+  },
+  {
+    "id": 315,
+    "word": "QUADRO-NEGRO",
+    "tabu": ["preto", "lousa", "classe", "escola", "escrever"]
+  },
+  {
+    "id": 316,
+    "word": "PLANTA",
+    "tabu": ["vaso", "água", "jardim", "folhas", "crescer"]
+  },
+  {
+    "id": 317,
+    "word": "RIMA",
+    "tabu": ["poema", "som", "palavras", "parecido", "poesia"]
+  },
+  {
+    "id": 318,
+    "word": "RECHEAR",
+    "tabu": ["peru", "torta", "pão", "recheio", "forno"]
+  },
+  {
+    "id": 319,
+    "word": "ELENCO",
+    "tabu": ["ator", "peça", "novela", "filme", "lista"]
+  },
+  {
+    "id": 320,
+    "word": "JUNTA",
+    "tabu": ["metal", "mão", "unir", "dedo", "quebrar"]
+  },
+  {
+    "id": 321,
+    "word": "CRIME",
+    "tabu": ["prender", "lei", "ilegal", "cometer", "prisão"]
+  },
+  {
+    "id": 322,
+    "word": "PORTO",
+    "tabu": ["navio", "doca", "vinho", "ancorar", "estibordo"]
+  },
+  {
+    "id": 323,
+    "word": "ADESIVO",
+    "tabu": ["cola", "vidro", "colar", "fita", "junto"]
+  },
+  {
+    "id": 324,
+    "word": "requeijão",
+    "tabu": ["queijo", "pão", "laticínio", "cremoso", "copo"]
+  },
+  {
+    "id": 325,
+    "word": "CHAVE",
+    "tabu": ["porta", "abrir", "carro", "trancar", "casa"]
+  },
+  {
+    "id": 326,
+    "word": "VACINA",
+    "tabu": ["braço", "agulha", "anticorpo", "injeção", "criança"]
+  },
+  {
+    "id": 327,
+    "word": "cLEPTOMANÍACo",
+    "tabu": ["roubar", "ladrão", "mão-leve", "pegar", "incontrolável"]
+  },
+  {
+    "id": 328,
+    "word": "SOZINHO",
+    "tabu": ["só", "solteiro", "próprio", "solitário", "ninguém"]
+  },
+  {
+    "id": 329,
+    "word": "ELIZABETH TAYLOR",
+    "tabu": ["Richard Burton", "casada", "atriz", "marido", "diamante"]
+  },
+  {
+    "id": 330,
+    "word": "FLAMINGO",
+    "tabu": ["rosa", "pássaro", "gramado", "comprido", "pernas"]
+  },
+  {
+    "id": 331,
+    "word": "PULAR",
+    "tabu": ["sapo", "canguru", "avançar", "saltar", "Carnaval"]
+  },
+  {
+    "id": 332,
+    "word": "ÁLBUM",
+    "tabu": ["foto", "figura", "recorte", "lembrança", "guardar"]
+  },
+  {
+    "id": 333,
+    "word": "PIADO",
+    "tabu": ["pássaro", "pio", "chiar", "canto", "barulho"]
+  },
+  {
+    "id": 334,
+    "word": "CACHIMBO",
+    "tabu": ["fumo", "pitar", "piteira", "brasa", "fumo"]
+  },
+  {
+    "id": 335,
+    "word": "BIQUÍNI",
+    "tabu": ["roupa", "duas-peças", "praia", "piscina", "banho"]
+  },
+  {
+    "id": 336,
+    "word": "mozarela",
+    "tabu": ["queijo", "pizza", "Itália", "laticínio", "comer"]
+  },
+  {
+    "id": 337,
+    "word": "TRENÓ",
+    "tabu": ["cachorro", "husky", "Alasca", "neve", "passear"]
+  },
+  {
+    "id": 338,
+    "word": "COLAR",
+    "tabu": ["pérolas", "jóia", "bracelete", "garganta", "usar"]
+  },
+  {
+    "id": 339,
+    "word": "CERVEJA",
+    "tabu": ["bebida", "vinho", "tomar", "álcool", "lata"]
+  },
+  {
+    "id": 340,
+    "word": "ANTONIO FAGUNDES",
+    "tabu": ["ator", "artista", "TV", "galã", "novela"]
+  },
+  {
+    "id": 341,
+    "word": "SALVA-VIDAS",
+    "tabu": ["piscina", "praia", "nadar", "afogar", "salvar"]
+  },
+  {
+    "id": 342,
+    "word": "POEMA",
+    "tabu": ["soneto", "rima", "verso", "escrever", "palavras"]
+  },
+  {
+    "id": 343,
+    "word": "ACNE",
+    "tabu": ["espinha", "adolescente", "cravo", "rosto", "pus"]
+  },
+  {
+    "id": 344,
+    "word": "ARTRITE",
+    "tabu": ["reumatismo", "dolorido", "juntas", "velho", "dor"]
+  },
+  {
+    "id": 345,
+    "word": "BARRIL",
+    "tabu": ["barrica", "contêiner", "madeira", "vinho", "pinga"]
+  },
+  {
+    "id": 346,
+    "word": "BONITÃO",
+    "tabu": ["atraente", "deslumbrante", "bonito", "cara", "visual"]
+  },
+  {
+    "id": 347,
+    "word": "matrimônio",
+    "tabu": ["casamento", "marido", "esposa", "cerimônia", "jura"]
+  },
+  {
+    "id": 348,
+    "word": "ENGANO",
+    "tabu": ["erro", "asneira", "cometer", "errado", "certo"]
+  },
+  {
+    "id": 349,
+    "word": "anabolizante",
+    "tabu": ["atleta", "corpo", "hormônio", "músculo", "esteróide"]
+  },
+  {
+    "id": 350,
+    "word": "MELANCIA",
+    "tabu": ["fruta", "caroço", "piquenique", "Magali", "verde"]
+  },
+  {
+    "id": 351,
+    "word": "BATERÍA",
+    "tabu": ["instrumento", "banda", "baqueta", "batida", "música"]
+  },
+  {
+    "id": 352,
+    "word": "enfermeirA",
+    "tabu": ["hospital", "branco", "diplomada", "médico", "remédio"]
+  },
+  {
+    "id": 353,
+    "word": "óCULOS DE SOL",
+    "tabu": ["luz", "sombra", "raio", "olhos", "escuro"]
+  },
+  {
+    "id": 354,
+    "word": "OVNI",
+    "tabu": ["alien", "nave espacial", "ver", "céu", "luzes"]
+  },
+  {
+    "id": 355,
+    "word": "CALIGRAFIA",
+    "tabu": ["escrever", "aula", "datilografar", "ler", "nota"]
+  },
+  {
+    "id": 356,
+    "word": "PINGUE-PONGUE",
+    "tabu": ["jogo", "bolinha", "raquete", "mesa", "tênis"]
+  },
+  {
+    "id": 357,
+    "word": "REVESTIMENTO",
+    "tabu": ["piso", "parede", "azulejo", "cobertura", "envolver"]
+  },
+  {
+    "id": 358,
+    "word": "CORCOVADO",
+    "tabu": ["monte", "Cristo", "Rio de Janeiro", "marco", "alto"]
+  },
+  {
+    "id": 359,
+    "word": "NORUEGA",
+    "tabu": ["país", "Escandinávia", "Europa", "Suécia", "Oslo"]
+  },
+  {
+    "id": 360,
+    "word": "BAMBI",
+    "tabu": ["animal", "veado", "Disney", "filme", "desenho"]
+  },
+  {
+    "id": 361,
+    "word": "REFÉM",
+    "tabu": ["sequestro", "Irã", "cativeiro", "resgate", "pegar"]
+  },
+  {
+    "id": 362,
+    "word": "ADUBO",
+    "tabu": ["fazenda", "vaca", "fertilizante", "espalhar", "fedor"]
+  },
+  {
+    "id": 363,
+    "word": "SACO",
+    "tabu": ["papel", "lixo", "plástico", "pacote", "dentro"]
+  },
+  {
+    "id": 364,
+    "word": "BOLICHE",
+    "tabu": ["pinos", "derrubar", "spare", "strike", "bola"]
+  },
+  {
+    "id": 365,
+    "word": "CRUZEIRO",
+    "tabu": ["navio", "férias", "barco", "transatlântico", "mar"]
+  },
+  {
+    "id": 366,
+    "word": "QUERIDA",
+    "tabu": ["amada", "amor", "carinho", "prezada", "gostar"]
+  },
+  {
+    "id": 367,
+    "word": "VAGABUNDO",
+    "tabu": ["mendigo", "dama", "preguiçoso", "pedinte", "trabalhar"]
+  },
+  {
+    "id": 368,
+    "word": "OPINIÃO",
+    "tabu": ["pública", "pesquisa", "ponto de vista", "pessoal", "você"]
+  },
+  {
+    "id": 369,
+    "word": "PARTE",
+    "tabu": ["divisão", "porção", "todo", "pedaço", "algum"]
+  },
+  {
+    "id": 370,
+    "word": "ESTÂNCIA",
+    "tabu": ["caubói", "gado", "oeste", "cavalo", "terra"]
+  },
+  {
+    "id": 371,
+    "word": "FÃ",
+    "tabu": ["ídolo", "clube", "autógrafo", "aplauso", "famoso"]
+  },
+  {
+    "id": 372,
+    "word": "TEIA",
+    "tabu": ["aranha", "armadilha", "suspender", "fio", "inseto"]
+  },
+  {
+    "id": 373,
+    "word": "DIPLOMA",
+    "tabu": ["receber", "formatura", "estudo", "documento", "título"]
+  },
+  {
+    "id": 374,
+    "word": "BELEZA",
+    "tabu": ["mulher", "concurso", "superficial", "bonita", "aparência"]
+  },
+  {
+    "id": 375,
+    "word": "VADIAR",
+    "tabu": ["nada", "parado", "esquina", "vagabundo", "polícia"]
+  },
+  {
+    "id": 376,
+    "word": "caranguejeira",
+    "tabu": ["aranha", "preta", "pernas", "peluda", "teia"]
+  },
+  {
+    "id": 377,
+    "word": "ATAQUE",
+    "tabu": ["coração", "assalto", "roubar", "batalha", "defender"]
+  },
+  {
+    "id": 378,
+    "word": "BEBÊ",
+    "tabu": ["infantil", "recém-nascido", "neném", "criança", "grávida"]
+  },
+  {
+    "id": 379,
+    "word": "RUA SEM SAÍDA",
+    "tabu": ["via", "entrada", "placa", "não", "beco"]
+  },
+  {
+    "id": 380,
+    "word": "PENA",
+    "tabu": ["asa", "travesseiro", "voar", "pássaro", "leve"]
+  },
+  {
+    "id": 381,
+    "word": "JÓQUEI",
+    "tabu": ["montar", "cavalo", "corrida", "sela", "pista"]
+  },
+  {
+    "id": 382,
+    "word": "LARANJA",
+    "tabu": ["cítrico", "suco", "redondo", "fruta", "cor"]
+  },
+  {
+    "id": 383,
+    "word": "PASTEL",
+    "tabu": ["carne", "queijo", "frito", "feira", "massa"]
+  },
+  {
+    "id": 384,
+    "word": "RECEITA",
+    "tabu": ["preparar", "cozinhar", "instruções", "comida", "ingredientes"]
+  },
+  {
+    "id": 385,
+    "word": "DENTE",
+    "tabu": ["obturaçâo", "dentista", "boca", "mastigar", "branco"]
+  },
+  {
+    "id": 386,
+    "word": "ESPOSA",
+    "tabu": ["marido", "casar", "mulher", "cônjuge", "noiva"]
+  },
+  {
+    "id": 387,
+    "word": "CHAVE INGLESA",
+    "tabu": ["grifo", "ferramenta", "mecânica", "apertar", "chave"]
+  },
+  {
+    "id": 388,
+    "word": "MELÃO",
+    "tabu": ["fruta", "melancia", "amarelo", "semente", "abrir"]
+  },
+  {
+    "id": 389,
+    "word": "GOLFE",
+    "tabu": ["direção", "buraco", "taco", "gramado", "bolinha"]
+  },
+  {
+    "id": 390,
+    "word": "INFINITO",
+    "tabu": ["sem limite", "eternidade", "ilimitado", "medida", "sempre"]
+  },
+  {
+    "id": 391,
+    "word": "CÁQUI",
+    "tabu": ["tecido", "material", "cru", "cor", "uniforme"]
+  },
+  {
+    "id": 392,
+    "word": "NAMORADO",
+    "tabu": ["cupido", "12 de junho", "querido", "apaixonado", "amor"]
+  },
+  {
+    "id": 393,
+    "word": "PORÃO",
+    "tabu": ["celeiro", "embaixo", "casa", "lugar", "debaixo"]
+  },
+  {
+    "id": 394,
+    "word": "LAMPIÃO",
+    "tabu": ["luz", "lâmpada", "escuro", "querosene", "iluminar"]
+  },
+  {
+    "id": 395,
+    "word": "HIMALAIA",
+    "tabu": ["montanha", "Everest", "alto", "escalar", "pico"]
+  },
+  {
+    "id": 396,
+    "word": "ALMOÇO",
+    "tabu": ["refeição", "jantar", "alimento", "comer", "café da manhã"]
+  },
+  {
+    "id": 397,
+    "word": "TROMBADINHA",
+    "tabu": ["ladrão", "carteira", "multidão", "roubar", "pegar"]
+  },
+  {
+    "id": 398,
+    "word": "RÁDIO",
+    "tabu": ["AM/FM", "música", "estéreo", "ouvir", "sintonizar"]
+  },
+  {
+    "id": 399,
+    "word": "ABAFADO",
+    "tabu": ["calor", "suor", "transpirar", "quente", "temperatura"]
+  },
+  {
+    "id": 400,
+    "word": "LIXO",
+    "tabu": ["lata", "lixeiro", "sobra", "entulho", "saco"]
+  },
+  {
+    "id": 401,
+    "word": "catálogo",
+    "tabu": ["loja", "pedir", "propaganda", "comprar", "correspondência"]
+  },
+  {
+    "id": 402,
+    "word": "abdominais",
+    "tabu": ["barriga", "abdômen", "exercício", "músculo", "chão"]
+  },
+  {
+    "id": 403,
+    "word": "VIOLINO",
+    "tabu": ["música", "instrumento", "corda", "orquestra", "queixo"]
+  },
+  {
+    "id": 404,
+    "word": "FERRO DE PASSAR ROUPA",
+    "tabu": ["engomar", "metal", "roupa", "amassado", "passar"]
+  },
+  {
+    "id": 405,
+    "word": "caranguejo",
+    "tabu": ["fruto do mar", "crustáceo", "siri", "câncer", "pinça"]
+  },
+  {
+    "id": 406,
+    "word": "BONECO DE NEVE",
+    "tabu": ["congelado", "Natal", "construir", "inverno", "fazer"]
+  },
+  {
+    "id": 407,
+    "word": "jovem guarda",
+    "tabu": [
+      "calhambeque",
+      "tremendão",
+      "Roberto Carlos",
+      "música",
+      "minissaia"
+    ]
+  },
+  {
+    "id": 408,
+    "word": "mauricinho",
+    "tabu": ["playboy", "rico", "jovem", "moda", "dinheiro"]
+  },
+  {
+    "id": 409,
+    "word": "FERNANDO HENRIQUE CARDOSO",
+    "tabu": ["governar", "presidente", "brasil", "sociólogo", "Plano Real"]
+  },
+  {
+    "id": 410,
+    "word": "Ancoradouro",
+    "tabu": ["porto", "navio", "barco", "âncora", "doca"]
+  },
+  {
+    "id": 411,
+    "word": "emergência",
+    "tabu": ["crise", "190", "socorro", "chamar", "situação"]
+  },
+  {
+    "id": 412,
+    "word": "LANTERNA",
+    "tabu": ["pilha", "luz", "iluminar", "escuro", "mão"]
+  },
+  {
+    "id": 413,
+    "word": "CHAVE DE FENDA",
+    "tabu": ["parafuso", "apertar", "ferramenta", "girar", "rosquear"]
+  },
+  {
+    "id": 414,
+    "word": "OCA",
+    "tabu": ["índio", "barraca", "cabana", "morar", "casa"]
+  },
+  {
+    "id": 415,
+    "word": "BERÇO",
+    "tabu": ["cama", "dormir", "bebê", "de ouro", "criança"]
+  },
+  {
+    "id": 416,
+    "word": "DISFARCE",
+    "tabu": ["traje", "esconder", "mudança", "visual", "aparência"]
+  },
+  {
+    "id": 417,
+    "word": "COAXO",
+    "tabu": ["sapo", "rã", "brejo", "som", "barulho"]
+  },
+  {
+    "id": 418,
+    "word": "GIRAFA",
+    "tabu": ["animal", "pescoço", "alto", "comprido", "mancha"]
+  },
+  {
+    "id": 419,
+    "word": "ESCADA",
+    "tabu": ["subir", "degrau", "passo", "pintar", "alto"]
+  },
+  {
+    "id": 420,
+    "word": "PORTA-RETRATOS",
+    "tabu": ["foto", "família", "álbum", "moldura", "recordação"]
+  },
+  {
+    "id": 421,
+    "word": "BARBA",
+    "tabu": ["homem", "rosto", "pêlo", "fazer", "bigode"]
+  },
+  {
+    "id": 422,
+    "word": "RUA",
+    "tabu": ["estrada", "avenida", "via", "dirigir", "atravessar"]
+  },
+  {
+    "id": 423,
+    "word": "BIBLIOTECA",
+    "tabu": ["livro", "emprestar", "ficha", "ler", "silêncio"]
+  },
+  {
+    "id": 424,
+    "word": "empire state",
+    "tabu": ["Nova York", "King Kong", "maior", "mais alto", "arranha-céu"]
+  },
+  {
+    "id": 425,
+    "word": "CHATO",
+    "tabu": ["plano", "liso", "mala", "Pé", "inconveniente"]
+  },
+  {
+    "id": 426,
+    "word": "CADEIA",
+    "tabu": ["prisão", "cela", "xadrez", "condenado", "grade"]
+  },
+  {
+    "id": 427,
+    "word": "GUARDA-SOL",
+    "tabu": ["sombra", "guarda-chuva", "praia", "proteger", "queimar"]
+  },
+  {
+    "id": 428,
+    "word": "PRESSA",
+    "tabu": ["rápido", "apressar", "atrasado", "correr", "ligeiro"]
+  },
+  {
+    "id": 429,
+    "word": "ESTRANGULAR",
+    "tabu": ["asfixiar", "sufocar", "pescoço", "assassinar", "garganta"]
+  },
+  {
+    "id": 430,
+    "word": "TARÔ",
+    "tabu": ["cigano", "futuro", "ler", "bola de cristal", "adivinho"]
+  },
+  {
+    "id": 431,
+    "word": "ESTÁDIO",
+    "tabu": ["futebol", "esporte", "espectador", "jogo", "lugar"]
+  },
+  {
+    "id": 432,
+    "word": "ROSCA",
+    "tabu": ["redondo", "pão", "doce", "parafuso", "porca"]
+  },
+  {
+    "id": 433,
+    "word": "CONHAQUE",
+    "tabu": ["bebida", "tomar", "vinho", "licor", "álcool"]
+  },
+  {
+    "id": 434,
+    "word": "CHAMINÉ",
+    "tabu": ["telhado", "fumaça", "tijolo", "lareira", "Papai Noel"]
+  },
+  {
+    "id": 435,
+    "word": "DIVISÃO",
+    "tabu": ["matemática", "multiplicação", "por", "número", "repartir"]
+  },
+  {
+    "id": 436,
+    "word": "SAIA",
+    "tabu": ["roupa", "blusa", "mini", "vestido", "usar"]
+  },
+  {
+    "id": 437,
+    "word": "ambulância",
+    "tabu": ["sirene", "médico", "emergência", "hospital", "veículo"]
+  },
+  {
+    "id": 438,
+    "word": "CEMITÉRIO",
+    "tabu": ["túmulo", "lápide", "morte", "funeral", "enterrar"]
+  },
+  {
+    "id": 439,
+    "word": "escanteio",
+    "tabu": ["tiro", "canto", "olímpico", "futebol", "corner"]
+  },
+  {
+    "id": 440,
+    "word": "INFANTIL",
+    "tabu": ["bebê", "recém-nascido", "criança", "jovem", "pequeno"]
+  },
+  {
+    "id": 441,
+    "word": "TIRA",
+    "tabu": ["quadrinhos", "fita", "faixa", "pano", "papel"]
+  },
+  {
+    "id": 442,
+    "word": "AVIADOR",
+    "tabu": ["piloto", "avião", "frequente", "voar", "céu"]
+  },
+  {
+    "id": 443,
+    "word": "SAUNA",
+    "tabu": ["vapor", "sala", "quente", "suor", "carvão"]
+  },
+  {
+    "id": 444,
+    "word": "VÊNUS",
+    "tabu": ["amor", "deusa", "planeta", "mulher", "beleza"]
+  },
+  {
+    "id": 445,
+    "word": "CANOA",
+    "tabu": ["bote", "remo", "índio", "água", "barco"]
+  },
+  {
+    "id": 446,
+    "word": "RAPTO",
+    "tabu": ["resgate", "sequestrar", "roubar", "criança", "refém"]
+  },
+  {
+    "id": 447,
+    "word": "manobrista",
+    "tabu": ["estacionar", "dirigir", "gorjeta", "carro", "restaurante"]
+  },
+  {
+    "id": 448,
+    "word": "IRRITAR",
+    "tabu": ["amolar", "nervos", "agravar", "aborrecer", "incomodar"]
+  },
+  {
+    "id": 449,
+    "word": "CROISSANT",
+    "tabu": ["lua", "pão", "massa", "francês", "folheado"]
+  },
+  {
+    "id": 450,
+    "word": "PAISAGEM",
+    "tabu": ["gramado", "plantas", "quadro", "cena", "jardim"]
+  },
+  {
+    "id": 451,
+    "word": "POSE",
+    "tabu": ["fotografia", "modelo", "foto", "parada", "posição"]
+  },
+  {
+    "id": 452,
+    "word": "ZEBRA",
+    "tabu": ["preto", "branco", "listra", "cavalo", "África"]
+  },
+  {
+    "id": 453,
+    "word": "BARBEIRO",
+    "tabu": ["cabelo", "tesoura", "barbear", "cortar", "cabeça"]
+  },
+  {
+    "id": 454,
+    "word": "curandeiro",
+    "tabu": ["mal", "doença", "benzer", "curar", "pajé"]
+  },
+  {
+    "id": 455,
+    "word": "protesto",
+    "tabu": ["passivo", "demonstrar", "estudante", "guerra", "marcha"]
+  },
+  {
+    "id": 456,
+    "word": "FAIXA DE PEDESTRE",
+    "tabu": ["Pé", "carro", "listra", "cruzamento", "rua"]
+  },
+  {
+    "id": 457,
+    "word": "POSITIVO",
+    "tabu": ["negativo", "mais", "pólo", "certo", "claro"]
+  },
+  {
+    "id": 458,
+    "word": "BAND-AID",
+    "tabu": ["gaze", "cobrir", "machucado", "corte", "curativo"]
+  },
+  {
+    "id": 459,
+    "word": "BÍBLIA",
+    "tabu": ["testamento", "livro", "juramento", "escritura", "sagrada"]
+  },
+  {
+    "id": 460,
+    "word": "DEVANEIO",
+    "tabu": ["pensamento", "dormir", "fantasia", "cansado", "mente"]
+  },
+  {
+    "id": 461,
+    "word": "FAX",
+    "tabu": ["cópia", "telefone", "passar", "eletrônico", "transmitir"]
+  },
+  {
+    "id": 462,
+    "word": "PIANO",
+    "tabu": ["órgão", "tecla", "tampa", "som", "pedal"]
+  },
+  {
+    "id": 463,
+    "word": "ESTUFA",
+    "tabu": ["vidro", "planta", "flor", "crescer", "aquecer"]
+  },
+  {
+    "id": 464,
+    "word": "JURI",
+    "tabu": ["julgamento", "culpado", "veredicto", "inocente", "juiz"]
+  },
+  {
+    "id": 465,
+    "word": "SPRAY DE PIMENTA",
+    "tabu": ["borrifar", "bolsa", "agressão", "olhos", "mulher"]
+  },
+  {
+    "id": 466,
+    "word": "abafador",
+    "tabu": ["debaixo", "barulho", "carro", "escapamento", "traseira"]
+  },
+  {
+    "id": 467,
+    "word": "ÓPERA",
+    "tabu": ["cantores", "tenor", "Fantasma", "palco", "musical"]
+  },
+  {
+    "id": 468,
+    "word": "MACARRÃO",
+    "tabu": ["espaguete", "italiano", "talharim", "massa", "comer"]
+  },
+  {
+    "id": 469,
+    "word": "ARCO-ÍRIS",
+    "tabu": ["atrás", "cores", "ouro", "céu", "sol"]
+  },
+  {
+    "id": 470,
+    "word": "TARZAN",
+    "tabu": ["Jane", "selva", "Chita", "maçã", "cipó"]
+  },
+  {
+    "id": 471,
+    "word": "VIÚVA",
+    "tabu": ["morte", "esposa", "mulher", "preto", "marido"]
+  },
+  {
+    "id": 472,
+    "word": "MOTOR",
+    "tabu": ["combustível", "carro", "veículo", "trem", "capô"]
+  },
+  {
+    "id": 473,
+    "word": "arremesso",
+    "tabu": ["jogar", "basquete", "atirar", "lance", "longe"]
+  },
+  {
+    "id": 474,
+    "word": "FOFOCA",
+    "tabu": ["vida", "conversa", "coluna", "outro(s)", "boato"]
+  },
+  {
+    "id": 475,
+    "word": "ENXAME",
+    "tabu": ["abelha", "colméia", "vergão", "alergia", "picada"]
+  },
+  {
+    "id": 476,
+    "word": "PRESIDENTE LULA",
+    "tabu": ["barba", "votação", "Luiz Inácio", "PT", "metalúrgico"]
+  },
+  {
+    "id": 477,
+    "word": "SECRETO",
+    "tabu": ["agente", "sigiloso", "confidencial", "saber", "ninguém"]
+  },
+  {
+    "id": 478,
+    "word": "ATOR",
+    "tabu": ["performance", "estrela", "filme", "teatro", "televisão"]
+  },
+  {
+    "id": 479,
+    "word": "Conserva",
+    "tabu": ["azeitona", "comida", "lata", "embalagem", "atum"]
+  },
+  {
+    "id": 480,
+    "word": "milionário",
+    "tabu": ["dinheiro", "riqueza", "rico", "loteria", "dólares"]
+  },
+  {
+    "id": 481,
+    "word": "VAMPIRO",
+    "tabu": ["Transilvânia", "Drácula", "sangue", "caixão", "pescoço"]
+  },
+  {
+    "id": 482,
+    "word": "ANTÍDOTO",
+    "tabu": ["veneno", "cura", "remédio", "droga", "neutralizar"]
+  },
+  {
+    "id": 483,
+    "word": "BANDIDO",
+    "tabu": ["ladrão", "assaltante", "mascarado", "roubar", "burlar"]
+  },
+  {
+    "id": 484,
+    "word": "DESERTO",
+    "tabu": ["Saara", "cacto", "quente", "seco", "areia"]
+  },
+  {
+    "id": 485,
+    "word": "PIQUENIQUE",
+    "tabu": ["cesta", "formiga", "fora", "comer", "comida"]
+  },
+  {
+    "id": 486,
+    "word": "CÓDIGO",
+    "tabu": ["secreto", "morse", "postal", "área", "número"]
+  },
+  {
+    "id": 487,
+    "word": "TESTE",
+    "tabu": ["exame", "escolha", "prova", "escola", "pergunta"]
+  },
+  {
+    "id": 488,
+    "word": "PIPA",
+    "tabu": ["voar", "vento", "linha", "empinar", "céu"]
+  },
+  {
+    "id": 489,
+    "word": "PRESÉPIO",
+    "tabu": ["Natal", "boneco", "nascimento", "Jesus", "reis magos"]
+  },
+  {
+    "id": 490,
+    "word": "POSTO DE GASOLINA",
+    "tabu": ["combustível", "abastecer", "frentista", "carro", "colocar"]
+  },
+  {
+    "id": 491,
+    "word": "SOMBRA",
+    "tabu": ["calor", "lâmpada", "sol", "árvore", "refrescar"]
+  },
+  {
+    "id": 492,
+    "word": "ESPADA",
+    "tabu": ["faca", "arma", "esgrima", "aço", "lâmina"]
+  },
+  {
+    "id": 493,
+    "word": "LEITE",
+    "tabu": ["bebida", "vaca", "branco", "laticínio", "cálcio"]
+  },
+  {
+    "id": 494,
+    "word": "ADÃO",
+    "tabu": ["Eva", "Éden", "maçã", "pecado", "homem"]
+  },
+  {
+    "id": 495,
+    "word": "BLUSH",
+    "tabu": ["vermelho", "bochecha", "maquiagem", "Pó", "rosto"]
+  },
+  {
+    "id": 496,
+    "word": "CACTO",
+    "tabu": ["crescer", "espinho", "deserto", "planta", "afiado"]
+  },
+  {
+    "id": 497,
+    "word": "TENDA",
+    "tabu": ["lona", "cobertura", "cabana", "porta", "barraca"]
+  },
+  {
+    "id": 498,
+    "word": "BOXE",
+    "tabu": ["pugilista", "Mike Tyson", "peso-pesado", "Popó", "luva"]
+  },
+  {
+    "id": 499,
+    "word": "FOGOS DE ARTIFÍCIO",
+    "tabu": ["céu", "explosão", "rojão", "réveillon", "foguete"]
+  },
+  {
+    "id": 500,
+    "word": "CARRUAGEM",
+    "tabu": ["transporte", "montar", "cavalos", "abóbora", "vagão"]
+  },
+  {
+    "id": 549,
+    "word": "estratégia",
+    "tabu": ["plano", "militar", "tática", "pensar", "mapa"]
+  },
+  {
+    "id": 550,
+    "word": "BULE",
+    "tabu": ["servir", "água", "café", "chaleira", "bico"]
+  },
+  {
+    "id": 551,
+    "word": "ATIVISTA",
+    "tabu": ["política", "direito", "estudante", "protesto", "demonstrar"]
+  },
+  {
+    "id": 552,
+    "word": "CHINA",
+    "tabu": ["culinária", "país", "muralha", "oriental", "porcelana"]
+  },
+  {
+    "id": 553,
+    "word": "corcunda",
+    "tabu": [
+      "corcova",
+      "Quasímodo",
+      "tocador de sino",
+      "Notre Dame",
+      "deformado"
+    ]
+  },
+  {
+    "id": 554,
+    "word": "maratona",
+    "tabu": ["quilômetros", "corredor", "esporte", "pista", "longo"]
+  },
+  {
+    "id": 555,
+    "word": "ESPELHO",
+    "tabu": ["parede", "ver", "reflexo", "imagem", "retrovisor"]
+  },
+  {
+    "id": 556,
+    "word": "FUMAÇA",
+    "tabu": ["detector", "fogo", "cachimbo", "cigarro", "chaminé"]
+  },
+  {
+    "id": 557,
+    "word": "FANTOCHE",
+    "tabu": ["teatro", "marionete", "brincar", "mão", "pano"]
+  },
+  {
+    "id": 558,
+    "word": "PAIS",
+    "tabu": ["mãe", "pai", "filhos", "nascimento", "órfão"]
+  },
+  {
+    "id": 559,
+    "word": "BALANÇA",
+    "tabu": ["equilíbrio", "peso", "regime", "subir", "quilo"]
+  },
+  {
+    "id": 560,
+    "word": "POMBO",
+    "tabu": ["correio", "pássaro", "parque", "ave", "estátua"]
+  },
+  {
+    "id": 561,
+    "word": "BILHETE",
+    "tabu": ["carta", "escrever", "agradecer", "mensagem", "recado"]
+  },
+  {
+    "id": 562,
+    "word": "PINÓQUIO",
+    "tabu": ["nariz", "crescer", "madeira", "mentira", "marionete"]
+  },
+  {
+    "id": 563,
+    "word": "INOCENTE",
+    "tabu": ["culpado", "sem culpa", "veredicto", "júri", "ingênuo"]
+  },
+  {
+    "id": 564,
+    "word": "FOTOGRAFIA",
+    "tabu": ["foto", "câmera", "filme", "instantânea", "álbum"]
+  },
+  {
+    "id": 565,
+    "word": "COCAR",
+    "tabu": ["roupa", "índio", "cabeça", "penas", "usar"]
+  },
+  {
+    "id": 566,
+    "word": "COLOSSO",
+    "tabu": ["gigante", "enorme", "forte", "grande", "Rhodes"]
+  },
+  {
+    "id": 567,
+    "word": "dente canino",
+    "tabu": ["dente", "mordida", "Drácula", "vampiro", "boca"]
+  },
+  {
+    "id": 568,
+    "word": "SORVETEIRO",
+    "tabu": ["sorvete", "vender", "servir", "gelado", "tomar"]
+  },
+  {
+    "id": 569,
+    "word": "LÍRIO",
+    "tabu": ["flor", "paz", "branco", "alucinógeno", "pureza"]
+  },
+  {
+    "id": 570,
+    "word": "LENTES DE CONTATO",
+    "tabu": ["olhos", "visão", "óculos", "usar", "enxergar"]
+  },
+  {
+    "id": 571,
+    "word": "VENENO",
+    "tabu": ["arsênico", "venenoso", "antídoto", "caveira", "cianureto"]
+  },
+  {
+    "id": 572,
+    "word": "espantalho",
+    "tabu": ["palha", "O mágico de Oz", "jardim", "campo", "pássaro"]
+  },
+  {
+    "id": 573,
+    "word": "CINZAS",
+    "tabu": ["queimar", "lareira", "cigarro", "cremar", "fumaça"]
+  },
+  {
+    "id": 574,
+    "word": "BANDA",
+    "tabu": ["grupo", "borracha", "música", "orquestra", "celular"]
+  },
+  {
+    "id": 575,
+    "word": "FARELO",
+    "tabu": ["grão", "cereal", "aveia", "fibra", "regular"]
+  },
+  {
+    "id": 576,
+    "word": "CD",
+    "tabu": ["música", "LP", "disco", "laser", "som"]
+  },
+  {
+    "id": 577,
+    "word": "Pó",
+    "tabu": ["sujeira", "aspirador", "tirar", "limpar", "móveis"]
+  },
+  {
+    "id": 578,
+    "word": "FLUTUAR",
+    "tabu": ["nadar", "boiar", "exibir", "leve", "água"]
+  },
+  {
+    "id": 579,
+    "word": "HUMOR",
+    "tabu": ["comédia", "animado", "engraçado", "risada", "piada"]
+  },
+  {
+    "id": 580,
+    "word": "BEIJO",
+    "tabu": ["lábios", "boca", "carinho", "boa noite", "dar"]
+  },
+  {
+    "id": 581,
+    "word": "LASANHA",
+    "tabu": ["italiana", "macarrão", "refeição", "comer", "camada"]
+  },
+  {
+    "id": 582,
+    "word": "MAPA",
+    "tabu": ["encontrar", "dirigir", "perdido", "atlas", "estrada"]
+  },
+  {
+    "id": 583,
+    "word": "ESGUICHO",
+    "tabu": ["torneira", "chuveiro", "mangueira", "água", "usar"]
+  },
+  {
+    "id": 584,
+    "word": "COR-DE-ROSA",
+    "tabu": ["cor", "bebê", "menina", "pantera", "vermelho"]
+  },
+  {
+    "id": 585,
+    "word": "SECRETÁRIA",
+    "tabu": [
+      "eletrônica",
+      "datilografar",
+      "telefone",
+      "assistente",
+      "escritório"
+    ]
+  },
+  {
+    "id": 586,
+    "word": "LENÇO DE PAPEL",
+    "tabu": ["papel", "nariz", "espirro", "Kleenex", "lenço"]
+  },
+  {
+    "id": 587,
+    "word": "ONTEM",
+    "tabu": ["passado", "antes", "hora", "amanhã", "tempo"]
+  },
+  {
+    "id": 588,
+    "word": "ARANHA",
+    "tabu": ["oito", "perna", "inseto", "caranguejeira", "teia"]
+  },
+  {
+    "id": 589,
+    "word": "TRANÇA",
+    "tabu": ["penteado", "rabo-de-cavalo", "menina", "cabelo", "prender"]
+  },
+  {
+    "id": 590,
+    "word": "BRUTO",
+    "tabu": ["óleo", "maneira", "grosseiro", "vulgar", "refinado"]
+  },
+  {
+    "id": 591,
+    "word": "DATA ",
+    "tabu": ["calendário", "dia", "mês", "ano", "tempo"]
+  },
+  {
+    "id": 592,
+    "word": "MERGULHO",
+    "tabu": ["água", "borda", "piscina", "céu", "pulo"]
+  },
+  {
+    "id": 593,
+    "word": "FANTASIA",
+    "tabu": ["imaginar", "sonho", "ilha", "carnaval", "real"]
+  },
+  {
+    "id": 594,
+    "word": "GRADUAÇÃO",
+    "tabu": ["concluir", "escola", "formar", "diploma", "pós"]
+  },
+  {
+    "id": 595,
+    "word": "RESSACA",
+    "tabu": ["álcool", "mal-estar", "bêbado", "bebida", "manhã"]
+  },
+  {
+    "id": 596,
+    "word": "PORCARIA",
+    "tabu": ["porco", "lixo", "besteira", "valor", "palavrão"]
+  },
+  {
+    "id": 597,
+    "word": "VIRA-LATA",
+    "tabu": ["cachorro", "rua", "raça", "lixo", "pedigree"]
+  },
+  {
+    "id": 598,
+    "word": "OLIMPÍADA",
+    "tabu": ["atletas", "medalha", "países", "ouro/prata/bronze", "competição"]
+  },
+  {
+    "id": 599,
+    "word": "monarquia",
+    "tabu": ["república", "rei", "governar", "rainha", "Inglaterra"]
+  },
+  {
+    "id": 600,
+    "word": "UVA-PASSA",
+    "tabu": ["uva", "fruta", "seca", "ameixa", "enrugado"]
+  },
+  {
+    "id": 601,
+    "word": "ESPIRRO",
+    "tabu": ["Pó", "saúde", "resfriado", "pimenta", "nariz"]
+  },
+  {
+    "id": 602,
+    "word": "URSO DE PELÚCIA",
+    "tabu": ["brinquedo", "fofo", "felpudo", "dormir", "animal"]
+  },
+  {
+    "id": 603,
+    "word": "GATILHO",
+    "tabu": ["arma", "revólver", "rápido", "apertar", "tiro"]
+  },
+  {
+    "id": 604,
+    "word": "UMBIGO",
+    "tabu": ["embigo", "barriga", "estômago", "cordão umbilical", "nascer"]
+  },
+  {
+    "id": 605,
+    "word": "LAGARTO",
+    "tabu": ["cobra", "réptil", "salamandra", "camaleão", "jacaré"]
+  },
+  {
+    "id": 606,
+    "word": "MÃE-DE-SANTO",
+    "tabu": ["culto", "religião", "branco", "candomblé", "umbanda"]
+  },
+  {
+    "id": 607,
+    "word": "JEEP",
+    "tabu": ["veículo", "carro", "rally", "terreno", "tração"]
+  },
+  {
+    "id": 608,
+    "word": "DESEJO",
+    "tabu": ["querer", "aspirar", "vontade", "grávida", "ânsia"]
+  },
+  {
+    "id": 609,
+    "word": "PIRÂMIDE",
+    "tabu": ["Egito", "tumba", "faraó", "Tutankamon", "enterrado"]
+  },
+  {
+    "id": 610,
+    "word": "COVINHA",
+    "tabu": ["sorriso", "bochecha", "gracinha", "buraco", "rosto"]
+  },
+  {
+    "id": 611,
+    "word": "PREGAR",
+    "tabu": ["segurar", "fixar", "apertar", "firme", "prender"]
+  },
+  {
+    "id": 612,
+    "word": "campainha",
+    "tabu": ["toque", "soar", "bater", "dlim-dlom", "botão"]
+  },
+  {
+    "id": 613,
+    "word": "GOURMET",
+    "tabu": ["especialista", "comida", "restaurante", "comer", "chefe"]
+  },
+  {
+    "id": 614,
+    "word": "enxaqueca",
+    "tabu": ["dor", "latejar", "aspirina", "cabeça", "forte"]
+  },
+  {
+    "id": 615,
+    "word": "LUA",
+    "tabu": ["noite", "céu", "sol", "cheia", "crescente"]
+  },
+  {
+    "id": 616,
+    "word": "plantação",
+    "tabu": ["-", "terra", "vegetal", "fazenda", "colheita"]
+  },
+  {
+    "id": 617,
+    "word": "GILETE",
+    "tabu": ["pêlo", "raspar", "barba", "bigode", "barbear"]
+  },
+  {
+    "id": 618,
+    "word": "ESTÚPIDO",
+    "tabu": ["bobo", "esperto", "idiota", "grosseiro", "bruto"]
+  },
+  {
+    "id": 619,
+    "word": "PARQUE",
+    "tabu": ["recreação", "passear", "diversão", "árvore", "Ibirapuera"]
+  },
+  {
+    "id": 620,
+    "word": "GIRASSOL",
+    "tabu": ["amarelo", "semente", "planta", "flor", "papagaio"]
+  },
+  {
+    "id": 621,
+    "word": "MÚMIA",
+    "tabu": ["Egito", "Tutankhamon", "embalsamar", "enrolada", "morte"]
+  },
+  {
+    "id": 622,
+    "word": "escritório",
+    "tabu": ["trabalho", "negócios", "mesa", "emprego", "empresa"]
+  },
+  {
+    "id": 623,
+    "word": "CASACO DE PELE",
+    "tabu": ["pêlo", "animal", "visom", "chinchila", "raposa"]
+  },
+  {
+    "id": 624,
+    "word": "SÓTÃO",
+    "tabu": ["celeiro", "teto", "casa", "depósito", "aposento"]
+  },
+  {
+    "id": 625,
+    "word": "lô-lô",
+    "tabu": ["brinquedo", "cordão", "cima", "baixo", "esticar"]
+  },
+  {
+    "id": 626,
+    "word": "PENTE",
+    "tabu": ["cabelo", "escova", "dividir", "fino", "cabeça"]
+  },
+  {
+    "id": 627,
+    "word": "FAVELA",
+    "tabu": ["barraco", "cidade", "pobre", "morro", "viver"]
+  },
+  {
+    "id": 628,
+    "word": "FUTEBOL",
+    "tabu": ["Pelé", "Ronaldinho", "gol", "esporte", "jogo"]
+  },
+  {
+    "id": 629,
+    "word": "ALGODÃO-DOCE",
+    "tabu": ["nuvem", "fofo", "rosa", "açúcar", "palito"]
+  },
+  {
+    "id": 630,
+    "word": "ALICHE",
+    "tabu": ["peixe", "pizza", "salgado", "colocar", "pedir"]
+  },
+  {
+    "id": 631,
+    "word": "BATERIA",
+    "tabu": ["lanterna", "carga", "pilha", "trocar", "celular"]
+  },
+  {
+    "id": 632,
+    "word": "TAMPA",
+    "tabu": ["abrir", "cobrir", "tapar", "panela", "fechar"]
+  },
+  {
+    "id": 633,
+    "word": "ACORDEÃO",
+    "tabu": ["instrumento", "forró", "sanfona", "música", "harmônica"]
+  },
+  {
+    "id": 634,
+    "word": "OCEANO ATLÂNTICO",
+    "tabu": ["mar", "Pacífico", "Índico", "água", "costa"]
+  },
+  {
+    "id": 635,
+    "word": "churrasco",
+    "tabu": ["assar", "carne", "grelhar", "fogo", "carvão"]
+  },
+  {
+    "id": 636,
+    "word": "VINTE-UM",
+    "tabu": ["bater", "baralho", "jogar", "cartas", "blackjack"]
+  },
+  {
+    "id": 637,
+    "word": "bumerangue",
+    "tabu": ["retornar", "jogar", "lançar", "ar", "volta"]
+  },
+  {
+    "id": 638,
+    "word": "CARTÃO DE VISITA",
+    "tabu": ["negócios", "nome", "telefone", "papel", "endereço"]
+  },
+  {
+    "id": 639,
+    "word": "explosão",
+    "tabu": ["apagar", "detonar", "estouro", "dinamite", "bomba"]
+  },
+  {
+    "id": 640,
+    "word": "FONTE",
+    "tabu": ["água", "rio", "nascente", "brotar", "chafariz"]
+  },
+  {
+    "id": 641,
+    "word": "HELICÓPTERO",
+    "tabu": ["palheta", "rico", "hélice", "voar", "avião"]
+  },
+  {
+    "id": 642,
+    "word": "INSÔNIA",
+    "tabu": ["dormir", "agitado", "sono", "cama", "noite"]
+  },
+  {
+    "id": 643,
+    "word": "ZELADOR",
+    "tabu": ["porteiro", "prédio", "manutenção", "limpeza", "edifício"]
+  },
+  {
+    "id": 644,
+    "word": "faca",
+    "tabu": ["cutelaria", "afiada", "colher", "garfo", "canivete"]
+  },
+  {
+    "id": 645,
+    "word": "LOTERIA",
+    "tabu": ["bilhete", "dinheiro", "número", "ganhar", "esportiva"]
+  },
+  {
+    "id": 646,
+    "word": "PIMENTA",
+    "tabu": ["quente", "picante", "vermelha", "malagueta", "reino"]
+  },
+  {
+    "id": 647,
+    "word": "RAINHA",
+    "tabu": ["Elizabeth", "rei", "mulher", "real", "Inglaterra"]
+  },
+  {
+    "id": 648,
+    "word": "SELA",
+    "tabu": ["cavalo", "estribo", "couro", "assento", "montar"]
+  },
+  {
+    "id": 649,
+    "word": "FADA DO DENTE",
+    "tabu": ["cama", "travesseiro", "dinheiro", "imaginação", "noite"]
+  },
+  {
+    "id": 650,
+    "word": "ENDINHEIRADO",
+    "tabu": ["rico", "milionário", "cheio", "grana", "dinheiro"]
+  },
+  {
+    "id": 651,
+    "word": "FRETE",
+    "tabu": ["carga", "mercadoria", "transportar", "produto", "levar"]
+  },
+  {
+    "id": 652,
+    "word": "DORMINHOCO",
+    "tabu": ["soneca", "cochilo", "dormir", "cansado", "despertador"]
+  },
+  {
+    "id": 653,
+    "word": "CASCÃO",
+    "tabu": [
+      "personagem",
+      "Turma da Mônica",
+      "banho",
+      "Mônica/Cebolinha",
+      "sujo"
+    ]
+  },
+  {
+    "id": 654,
+    "word": "PRAGA",
+    "tabu": ["jardim", "gramado", "erva-daninha", "verde", "crescer"]
+  },
+  {
+    "id": 655,
+    "word": "VIOLÃO",
+    "tabu": ["música", "cordas", "dedilhar", "tocar", "viola"]
+  },
+  {
+    "id": 656,
+    "word": "CORREDOR",
+    "tabu": ["casa", "passagem", "caminho", "sala", "escola"]
+  },
+  {
+    "id": 657,
+    "word": "COFRINHO",
+    "tabu": ["criança", "dinheiro", "economia", "moeda", "porco"]
+  },
+  {
+    "id": 658,
+    "word": "IDADE DA PEDRA",
+    "tabu": [
+      "homem das cavernas",
+      "Flintstones",
+      "pré-histórico",
+      "tempo",
+      "dinossauro"
+    ]
+  },
+  {
+    "id": 659,
+    "word": "HIENA",
+    "tabu": ["risada", "animal", "bicho", "leão", "sorriso"]
+  },
+  {
+    "id": 660,
+    "word": "POLVO",
+    "tabu": ["tentáculos", "oceano", "braços", "oito", "lula"]
+  },
+  {
+    "id": 661,
+    "word": "PEDÁGIO",
+    "tabu": ["carro", "estrada", "cabine", "viajar", "pagar"]
+  },
+  {
+    "id": 662,
+    "word": "PECHINCHAR",
+    "tabu": ["preço", "negociar", "atacado", "compra", "reduzir"]
+  },
+  {
+    "id": 663,
+    "word": "ADIVINHO",
+    "tabu": ["ler", "cigana", "bola de cristal", "futuro", "palma"]
+  },
+  {
+    "id": 664,
+    "word": "MASCOTE",
+    "tabu": ["símbolo", "vestir", "time", "animal", "esporte"]
+  },
+  {
+    "id": 665,
+    "word": "PÓLO",
+    "tabu": ["esporte", "cavalo", "ímã", "camisa", "Norte / Sul"]
+  },
+  {
+    "id": 666,
+    "word": "PIA",
+    "tabu": ["sabão", "cozinha", "água", "banheiro", "torneira"]
+  },
+  {
+    "id": 667,
+    "word": "armadura",
+    "tabu": ["cavaleiro", "metal", "proteção", "traje", "vestir"]
+  },
+  {
+    "id": 668,
+    "word": "MOCHILA",
+    "tabu": ["bolsa", "mala", "andar", "usar", "ombro"]
+  },
+  {
+    "id": 669,
+    "word": "BORBOLETA",
+    "tabu": ["asa", "mariposa", "lagarta", "casulo", "voar"]
+  },
+  {
+    "id": 670,
+    "word": "CRÍTICO",
+    "tabu": ["filme", "julgar", "examinador", "escrever", "opinião"]
+  },
+  {
+    "id": 671,
+    "word": "CASPA",
+    "tabu": ["cabelo", "escama", "couro cabeludo", "Denorex", "branco"]
+  },
+  {
+    "id": 672,
+    "word": "HONESTIDADE",
+    "tabu": ["verdade", "mentira", "dignidade", "decente", "confiança"]
+  },
+  {
+    "id": 673,
+    "word": "JUVENIL",
+    "tabu": ["imaturo", "adolescente", "moçada", "adulto", "jovem"]
+  },
+  {
+    "id": 674,
+    "word": "LÂMPADA",
+    "tabu": ["rosquear", "watts", "eletricidade", "luz", "Thomas Edison"]
+  },
+  {
+    "id": 675,
+    "word": "FORA",
+    "tabu": ["dentro", "porta", "sair", "deixar", "ir"]
+  },
+  {
+    "id": 676,
+    "word": "PASSAR",
+    "tabu": ["ignorar", "reprovar", "prova", "roupa", "alisar"]
+  },
+  {
+    "id": 677,
+    "word": "geladeira",
+    "tabu": ["refrigerador", "freezer", "frio", "comida", "assaltar"]
+  },
+  {
+    "id": 678,
+    "word": "TAPETE",
+    "tabu": ["chão", "carpete", "oriental", "decoração", "felpudo"]
+  },
+  {
+    "id": 679,
+    "word": "MORANGO",
+    "tabu": ["fruta", "azeda", "vermelho", "geléia", "sorvete"]
+  },
+  {
+    "id": 680,
+    "word": "ensolarado",
+    "tabu": ["claro", "quente", "verão", "nublado", "tempo"]
+  },
+  {
+    "id": 681,
+    "word": "TAVERNA",
+    "tabu": ["beber", "hospedaria", "bar", "bodega", "Inglaterra"]
+  },
+  {
+    "id": 682,
+    "word": "DEDAL",
+    "tabu": ["costurar", "dedo", "proteção", "agulha", "furar"]
+  },
+  {
+    "id": 683,
+    "word": "astrologia",
+    "tabu": ["horóscopo", "astros", "signo", "Walter Mercado", "zodíaco"]
+  },
+  {
+    "id": 684,
+    "word": "CENTRO DA CIDADE",
+    "tabu": ["ir", "cidade", "movimento", "urbano", "avenida"]
+  },
+  {
+    "id": 685,
+    "word": "IMORTAL",
+    "tabu": ["morrer", "viver", "sempre", "eternidade", "matar"]
+  },
+  {
+    "id": 686,
+    "word": "KETCHUP",
+    "tabu": ["mostarda", "tempero", "tomate", "condimento", "batata frita"]
+  },
+  {
+    "id": 687,
+    "word": "TINTA",
+    "tabu": ["cor", "pincel", "parede", "casa", "artista"]
+  },
+  {
+    "id": 688,
+    "word": "VIETNÃ",
+    "tabu": ["guerra", "Ásia", "Estados Unidos", "Nixon", "Saigon"]
+  },
+  {
+    "id": 689,
+    "word": "BOLHA DE SABÃO",
+    "tabu": ["sabão", "espuma", "lavar", "ensaboar", "bolhas"]
+  },
+  {
+    "id": 690,
+    "word": "UNHA",
+    "tabu": ["polir", "manicure", "dedo do pé", "cutícula", "dedo"]
+  },
+  {
+    "id": 691,
+    "word": "MESTRE",
+    "tabu": ["professor", "faculdade", "escola", "aula", "distraído"]
+  },
+  {
+    "id": 692,
+    "word": "OUTDOOR",
+    "tabu": ["propaganda", "margem a estrada", "rodovia", "placa", "dirigir"]
+  },
+  {
+    "id": 693,
+    "word": "CHEIRAR",
+    "tabu": ["perfume", "odor", "nariz", "aroma", "respirar"]
+  },
+  {
+    "id": 694,
+    "word": "PRAIA",
+    "tabu": ["costa", "areia", "onda", "concha", "água"]
+  },
+  {
+    "id": 695,
+    "word": "PESTE",
+    "tabu": ["bicho", "praga", "aborrecimento", "incomodar", "inseto"]
+  },
+  {
+    "id": 696,
+    "word": "CONTADOR",
+    "tabu": ["declaração", "renda", "contabilidade", "empresa", "números"]
+  },
+  {
+    "id": 697,
+    "word": "ALFABETO",
+    "tabu": ["letras", "26", "ABC", "abecedário", "aprender"]
+  },
+  {
+    "id": 698,
+    "word": "INVESTIGAR",
+    "tabu": ["crime", "procurar", "secreto", "detetive", "pista"]
+  },
+  {
+    "id": 699,
+    "word": "MANICURE",
+    "tabu": ["unha", "cutícula", "lixa", "mão", "mulher"]
+  },
+  {
+    "id": 700,
+    "word": "COPA DO MUNDO",
+    "tabu": ["futebol", "países", "times", "Jules Rimet", "campeão"]
+  },
+  {
+    "id": 701,
+    "word": "ANCESTRAL",
+    "tabu": ["parente", "descendente", "antepassado", "raiz", "família"]
+  },
+  {
+    "id": 702,
+    "word": "BANHO",
+    "tabu": ["banheira", "água", "limpo", "chuveiro", "sabonete"]
+  },
+  {
+    "id": 703,
+    "word": "presunto",
+    "tabu": ["porco", "frio", "queijo", "carne", "bacon"]
+  },
+  {
+    "id": 704,
+    "word": "PILAR",
+    "tabu": ["poste", "coluna", "sustentar", "firmar", "suporte"]
+  },
+  {
+    "id": 705,
+    "word": "MENOR DE IDADe",
+    "tabu": ["dirigir", "adolescente", "pequeno", "adulto", "jovem"]
+  },
+  {
+    "id": 706,
+    "word": "PIZZA",
+    "tabu": ["pedaço", "mozarela", "borda", "calabresa", "Catupiry"]
+  },
+  {
+    "id": 707,
+    "word": "JORNAL",
+    "tabu": ["impressão", "imprensa", "diário", "repórteres", "ler"]
+  },
+  {
+    "id": 708,
+    "word": "RELÓGIO",
+    "tabu": ["tempo", "número", "parede", "hora", "ponteiro"]
+  },
+  {
+    "id": 709,
+    "word": "VOTAR",
+    "tabu": ["eleger", "cédula", "pesquisa", "urna", "candidato"]
+  },
+  {
+    "id": 710,
+    "word": "ALIEN",
+    "tabu": ["alienígena", "criatura", "espaço", "planeta", "Sigourney Weaver"]
+  },
+  {
+    "id": 711,
+    "word": "ARTISTA",
+    "tabu": ["pintor", "escultor", "desenhista", "estúdio", "cavalete"]
+  },
+  {
+    "id": 712,
+    "word": "EXPLODIR",
+    "tabu": ["dinamite", "explosão", "estouro", "estrondo", "disparo"]
+  },
+  {
+    "id": 713,
+    "word": "DIRIGÍVEL",
+    "tabu": ["Goodyear", "zepelim", "voar", "balão", "veículo"]
+  },
+  {
+    "id": 714,
+    "word": "TIJOLO",
+    "tabu": ["bloco", "olaria", "barro", "pedaço", "construção"]
+  },
+  {
+    "id": 715,
+    "word": "PÃO",
+    "tabu": ["de forma", "torrada", "sanduíche", "francês", "padaria"]
+  },
+  {
+    "id": 716,
+    "word": "CHAMADA TELEFÔNICA",
+    "tabu": ["telefone", "discar", "tocar", "nome", "falar"]
+  },
+  {
+    "id": 717,
+    "word": "CLIENTE",
+    "tabu": ["adquirir", "loja", "comprar", "vender", "pagar"]
+  },
+  {
+    "id": 718,
+    "word": "DEDO",
+    "tabu": ["anelar", "indicador", "mão", "polegar", "Pé"]
+  },
+  {
+    "id": 719,
+    "word": "MONSTRO",
+    "tabu": ["Frankenstein", "terror", "filme", "criatura", "assustador"]
+  },
+  {
+    "id": 720,
+    "word": "GORDO",
+    "tabu": ["banha", "obeso", "rechonchudo", "flácido", "comer"]
+  },
+  {
+    "id": 721,
+    "word": "SURFAR",
+    "tabu": ["pegar", "prancha", "esporte", "praia", "onda"]
+  },
+  {
+    "id": 722,
+    "word": "TARDE",
+    "tabu": ["antes", "dia", "manhã", "meio-dia", "noite"]
+  },
+  {
+    "id": 723,
+    "word": "BALANÇO",
+    "tabu": ["varanda", "sentar", "balançar", "vovó", "voltar"]
+  },
+  {
+    "id": 724,
+    "word": "CÓRREGO",
+    "tabu": ["corrente", "rio", "riacho", "água", "ribeirão"]
+  },
+  {
+    "id": 725,
+    "word": "CIRURGIA PLÁSTICA",
+    "tabu": ["rugas", "jovem", "cirurgião-plástico", "operação", "cosmético"]
+  },
+  {
+    "id": 726,
+    "word": "COCEIRA",
+    "tabu": ["pele", "coçar", "esfregar", "urticária", "picada"]
+  },
+  {
+    "id": 727,
+    "word": "encanador",
+    "tabu": ["vazamento", "cano", "banheiro", "pia", "consertar"]
+  },
+  {
+    "id": 728,
+    "word": "RECANTO",
+    "tabu": ["férias", "retiro", "hotel", "luxo", "ficar"]
+  },
+  {
+    "id": 729,
+    "word": "ESNOBE",
+    "tabu": ["melhor", "indiferente", "arrogante", "nariz", "convencido"]
+  },
+  {
+    "id": 730,
+    "word": "SINFONIA",
+    "tabu": ["orquestra", "concerto", "música", "clássico", "maestro"]
+  },
+  {
+    "id": 731,
+    "word": "CRAVO",
+    "tabu": ["flor", "rosa", "lapela", "branco", "buquê"]
+  },
+  {
+    "id": 732,
+    "word": "GELATINA",
+    "tabu": ["Royal", "sabores", "sobremesa", "sacudir", "colorida"]
+  },
+  {
+    "id": 733,
+    "word": "BRIGADEIRO",
+    "tabu": ["comer", "chocolate", "granulado", "festa", "doce"]
+  },
+  {
+    "id": 734,
+    "word": "LIMÃO",
+    "tabu": ["cítrico", "azedo", "lima", "fruta", "verde"]
+  },
+  {
+    "id": 735,
+    "word": "AMENDOIM",
+    "tabu": ["casca", "salgado", "aperitivo", "torrado", "comer"]
+  },
+  {
+    "id": 736,
+    "word": "DIET",
+    "tabu": ["gordura", "menos", "comer", "calorias", "peso"]
+  },
+  {
+    "id": 737,
+    "word": "TORRE EIFFEL",
+    "tabu": ["Paris", "marco", "alto", "ferro", "estrutura"]
+  },
+  {
+    "id": 738,
+    "word": "fantasma",
+    "tabu": ["Gasparzinho", "espírito", "noite", "lençol", "assombrado"]
+  },
+  {
+    "id": 739,
+    "word": "BANQUETE",
+    "tabu": ["comer", "festa", "comida", "jantar", "discurso"]
+  },
+  {
+    "id": 740,
+    "word": "EXERCÍCIO",
+    "tabu": ["academia", "saúde", "aeróbica", "prática", "sedentário"]
+  },
+  {
+    "id": 741,
+    "word": "ÔNIBUS ESCOLAR",
+    "tabu": ["crianças", "perua", "pegar", "veículo", "escola"]
+  },
+  {
+    "id": 742,
+    "word": "PRENDER",
+    "tabu": ["polícia", "cadeia", "crime", "lei", "algema"]
+  },
+  {
+    "id": 743,
+    "word": "CARPETE",
+    "tabu": ["chão", "tapete", "parede", "aspirador", "casa"]
+  },
+  {
+    "id": 744,
+    "word": "OSTRA",
+    "tabu": ["comer", "pérola", "concha", "molusco", "cru"]
+  },
+  {
+    "id": 745,
+    "word": "PENEIRA",
+    "tabu": ["escorredor", "coador", "secar", "buracos", "sol"]
+  },
+  {
+    "id": 746,
+    "word": "CÍRCULO",
+    "tabu": ["forma", "redondo", "anel", "360 graus", "quadrado"]
+  },
+  {
+    "id": 747,
+    "word": "HAMSTER",
+    "tabu": ["animal", "estimação", "gaiola", "rato", "rodinha"]
+  },
+  {
+    "id": 748,
+    "word": "travesseiro",
+    "tabu": ["cama", "cabeça", "dormir", "pena", "apoiar"]
+  },
+  {
+    "id": 749,
+    "word": "COITADO",
+    "tabu": ["perdedor", "favorito", "vantagem", "ganhar", "derrotado"]
+  },
+  {
+    "id": 750,
+    "word": "SOBRA",
+    "tabu": ["requentar", "ontem", "comida", "prato", "guardar"]
+  },
+  {
+    "id": 751,
+    "word": "PICHE",
+    "tabu": ["rua", "jogar", "asfalto", "preto", "grudar"]
+  },
+  {
+    "id": 752,
+    "word": "RONCAR",
+    "tabu": ["dormir", "som", "noite", "nariz", "barulho"]
+  },
+  {
+    "id": 753,
+    "word": "SOUVENIR",
+    "tabu": ["lembrança", "presente", "recordação", "férias", "loja"]
+  },
+  {
+    "id": 754,
+    "word": "POLTRONA",
+    "tabu": ["reclinar", "sentar", "descansar", "sofá", "braço"]
+  },
+  {
+    "id": 755,
+    "word": "CELEIRO",
+    "tabu": ["fazenda", "construção", "animais", "porteira", "palheiro"]
+  },
+  {
+    "id": 756,
+    "word": "DRÁCULA",
+    "tabu": ["vampiro", "Transilvânia", "sangue", "mordida", "pescoço"]
+  },
+  {
+    "id": 757,
+    "word": "FLORESTA",
+    "tabu": ["árvore", "Amazônica", "fogo", "madeira", "desmatar"]
+  },
+  {
+    "id": 758,
+    "word": "RÍMEL",
+    "tabu": ["cílio", "maquiagem", "cosmético", "escova", "passar"]
+  },
+  {
+    "id": 759,
+    "word": "DINHEIRO",
+    "tabu": ["reais", "centavos", "comprar", "gastar", "grana"]
+  },
+  {
+    "id": 760,
+    "word": "POLICIAL",
+    "tabu": ["tira", "arma", "lei", "distintivo", "delegacia"]
+  },
+  {
+    "id": 761,
+    "word": "ESTRIBO",
+    "tabu": ["Pé", "peão", "sela", "arreio", "cavalo"]
+  },
+  {
+    "id": 762,
+    "word": "BASQUETE",
+    "tabu": ["aro", "arremessar", "jogar", "cesta", "quadra"]
+  },
+  {
+    "id": 763,
+    "word": "CALCINHA",
+    "tabu": ["náilon", "lingerie", "meia", "perna", "usar"]
+  },
+  {
+    "id": 764,
+    "word": "PALHA",
+    "tabu": ["fogo", "agulha", "feno", "junco", "espantalho"]
+  },
+  {
+    "id": 765,
+    "word": "PERU",
+    "tabu": ["comer", "Natal", "recheado", "peito", "ave"]
+  },
+  {
+    "id": 766,
+    "word": "COMETA",
+    "tabu": ["estrela", "astro", "céu", "Halley", "cauda"]
+  },
+  {
+    "id": 767,
+    "word": "PELADO",
+    "tabu": ["despir", "roupa", "stripper", "nu", "nudismo"]
+  },
+  {
+    "id": 768,
+    "word": "TRAVE",
+    "tabu": ["futebol", "bater", "chute", "bola", "goleiro"]
+  },
+  {
+    "id": 769,
+    "word": "CORDA BAMBA",
+    "tabu": ["circo", "acrobata", "balançar", "andar", "cair"]
+  },
+  {
+    "id": 770,
+    "word": "AMNÉSIA",
+    "tabu": ["esquecer", "memória", "lembrar", "cabeça", "pancada"]
+  },
+  {
+    "id": 771,
+    "word": "espectador",
+    "tabu": ["observador", "platéia", "testemunha", "assistir", "ver"]
+  },
+  {
+    "id": 772,
+    "word": "CALENDÁRIO",
+    "tabu": ["mês", "ano", "dias", "data", "número"]
+  },
+  {
+    "id": 773,
+    "word": "VALENTE",
+    "tabu": ["intrépido", "medo", "perigoso", "corajoso", "forte"]
+  },
+  {
+    "id": 774,
+    "word": "CINTA",
+    "tabu": ["mulher", "suporte", "lingerie", "roupa", "liga"]
+  },
+  {
+    "id": 775,
+    "word": "AZAR",
+    "tabu": ["feiticeira", "maldição", "feitiço", "ruim", "sorte"]
+  },
+  {
+    "id": 776,
+    "word": "ÓRFÃO",
+    "tabu": ["abandonado", "pais", "adotado", "mãe", "pai"]
+  },
+  {
+    "id": 777,
+    "word": "espinafre",
+    "tabu": ["Popeye", "verde", "comer", "verdura", "forte"]
+  },
+  {
+    "id": 778,
+    "word": "IMPOSTO",
+    "tabu": ["renda", "taxa", "governo", "tributo", "pagar"]
+  },
+  {
+    "id": 779,
+    "word": "convenção",
+    "tabu": ["congresso", "encontro", "acordo", "reunião", "tratado"]
+  },
+  {
+    "id": 780,
+    "word": "GUINCHO",
+    "tabu": ["carro", "veículo", "chamar", "reboque", "socorro"]
+  },
+  {
+    "id": 781,
+    "word": "ARROTO",
+    "tabu": ["eructação", "bebê", "gás", "ar", "comer"]
+  },
+  {
+    "id": 782,
+    "word": "azia",
+    "tabu": ["ácido", "estômago", "indigestão", "dor", "comer"]
+  },
+  {
+    "id": 783,
+    "word": "JAZZ",
+    "tabu": ["música", "blues", "corneta", "jam", "saxofone"]
+  },
+  {
+    "id": 784,
+    "word": "FARMÁCIA",
+    "tabu": ["drogaria", "receitas", "pílula", "remédio", "doente"]
+  },
+  {
+    "id": 785,
+    "word": "JORGE AMADO",
+    "tabu": ["escritor", "Bahia", "Gabriela", "Brasil", "livro"]
+  },
+  {
+    "id": 786,
+    "word": "TÁXI",
+    "tabu": ["corrida", "cidade", "carro", "dinheiro", "chamar"]
+  },
+  {
+    "id": 787,
+    "word": "aterrissagem",
+    "tabu": ["avião", "aeroporto", "pousar", "decolar", "torre"]
+  },
+  {
+    "id": 788,
+    "word": "CHICOTE",
+    "tabu": ["couro", "chibata", "bater", "açoite", "punição"]
+  },
+  {
+    "id": 789,
+    "word": "ALGODÃ",
+    "tabu": ["branco", "bola", "tecido", "material", "Johnson&Johnson"]
+  },
+  {
+    "id": 790,
+    "word": "LICOR",
+    "tabu": ["uísque", "álcool", "beber", "bar", "refeição"]
+  },
+  {
+    "id": 791,
+    "word": "LAÇO",
+    "tabu": ["pescoço", "amarrar", "corda", "nó", "sapato"]
+  },
+  {
+    "id": 792,
+    "word": "PINÇA",
+    "tabu": ["arrancar", "puxar", "sobrancelha", "quebrar", "apertar"]
+  },
+  {
+    "id": 793,
+    "word": "ZERO",
+    "tabu": ["número", "nada", "nulo", "um", "nenhum"]
+  },
+  {
+    "id": 794,
+    "word": "ANCIÃO",
+    "tabu": ["velho", "história", "passado", "tempo", "anos"]
+  },
+  {
+    "id": 795,
+    "word": "convento",
+    "tabu": ["freira", "viver", "irmã", "religião", "casa"]
+  },
+  {
+    "id": 796,
+    "word": "AQUILES",
+    "tabu": ["Grécia", "herói", "calcanhar", "mitologia", "fraco"]
+  },
+  {
+    "id": 797,
+    "word": "TUBARÃO",
+    "tabu": ["peixe", "martelo", "dente", "filme", "mordida"]
+  },
+  {
+    "id": 798,
+    "word": "GIM",
+    "tabu": ["álcool", "bebida", "transparente", "tônica", "claro"]
+  },
+  {
+    "id": 799,
+    "word": "GRANOLA",
+    "tabu": ["saúde", "barrinha", "matinal", "cereal", "café da manhã"]
+  },
+  {
+    "id": 800,
+    "word": "HIPNOSE",
+    "tabu": ["transe", "dormir", "relógio", "relógio", "subconsciente"]
+  },
+  {
+    "id": 801,
+    "word": "marshmallow",
+    "tabu": ["branco", "sorvete", "tostado", "cobertura", "fofo"]
+  },
+  {
+    "id": 802,
+    "word": "quebra-nozes",
+    "tabu": ["ballet", "abrir", "suíte", "Natal", "dança"]
+  },
+  {
+    "id": 803,
+    "word": "SALÁRIO",
+    "tabu": ["pagamento", "ordenado", "mês", "trabalho", "dinheiro"]
+  },
+  {
+    "id": 804,
+    "word": "CARNE COZIDA",
+    "tabu": ["comida", "ensopado", "comer", "cozinhar", "bife"]
+  },
+  {
+    "id": 805,
+    "word": "CIUMENTO",
+    "tabu": ["flerte", "emoção", "querer", "invejoso", "desconfiado"]
+  },
+  {
+    "id": 806,
+    "word": "ORELHÃO",
+    "tabu": ["público", "ligar", "telefone", "falar", "rua"]
+  },
+  {
+    "id": 807,
+    "word": "RADIADOR",
+    "tabu": ["aquecimento", "água", "refrigerar", "carro", "motor"]
+  },
+  {
+    "id": 808,
+    "word": "SKATE",
+    "tabu": ["andar", "roda", "calçada", "rua", "menino"]
+  },
+  {
+    "id": 809,
+    "word": "professor",
+    "tabu": ["instrutor", "aprender", "escola", "aluno", "mestre"]
+  },
+  {
+    "id": 810,
+    "word": "CENTAVO",
+    "tabu": ["dinheiro", "moeda", "cara", "coroa", "real"]
+  },
+  {
+    "id": 811,
+    "word": "SUSSURRO",
+    "tabu": ["falar", "baixinho", "ouvido", "som", "grito"]
+  },
+  {
+    "id": 812,
+    "word": "DIRIGIR",
+    "tabu": ["habilitação", "carro", "guiar", "licença", "veículo"]
+  },
+  {
+    "id": 813,
+    "word": "pára-quedas",
+    "tabu": ["saltar", "pular", "avião", "queda-livre", "abrir"]
+  },
+  {
+    "id": 814,
+    "word": "LIGEIRO",
+    "tabu": ["veloz", "depressa", "rápido", "apressado", "imediato"]
+  },
+  {
+    "id": 815,
+    "word": "VÍRGULA",
+    "tabu": ["pontuação", "pausa", "marca", "ponto", "sentença"]
+  },
+  {
+    "id": 816,
+    "word": "FAMA",
+    "tabu": ["celebridade", "passageira", "hall", "sucesso", "fortuna"]
+  },
+  {
+    "id": 817,
+    "word": "LENÇO",
+    "tabu": ["nariz", "pano", "esfregar", "bolso", "papel"]
+  },
+  {
+    "id": 818,
+    "word": "ABACAXI",
+    "tabu": ["fruta", "casca", "coroa", "ácido", "descascar"]
+  },
+  {
+    "id": 819,
+    "word": "unicórnio",
+    "tabu": ["cavalo", "mítico", "um", "chifre", "conto de fadas"]
+  },
+  {
+    "id": 820,
+    "word": "cirurgião",
+    "tabu": ["médico", "bisturi", "hospital", "cortar", "operação"]
+  },
+  {
+    "id": 821,
+    "word": "chocolate",
+    "tabu": ["cacau", "leite", "marrom", "doce", "ovo de páscoa"]
+  },
+  {
+    "id": 822,
+    "word": "bife",
+    "tabu": ["carne", "boi", "churrasco", "filé", "hambúrguer"]
+  },
+  {
+    "id": 823,
+    "word": "MANSÃO",
+    "tabu": ["casa", "lar", "propriedade", "morar", "rico"]
+  },
+  {
+    "id": 824,
+    "word": "INCÊNDIO",
+    "tabu": ["fogo", "queimar", "bombeiros", "tocha", "chama"]
+  },
+  {
+    "id": 825,
+    "word": "GARRAFA",
+    "tabu": ["vasilha", "vidro", "refrigerante", "cerveja", "Coca-Cola"]
+  },
+  {
+    "id": 826,
+    "word": "profissão",
+    "tabu": ["cargo", "emprego", "carreira", "entrevista", "trabalho"]
+  },
+  {
+    "id": 827,
+    "word": "ESPIÃO",
+    "tabu": ["agente", "informações", "secreto", "James Bond", "disfarce"]
+  },
+  {
+    "id": 828,
+    "word": "ESCORREDOR DE MACARRÃO",
+    "tabu": ["massa", "buracos", "tigela", "peneira", "água"]
+  },
+  {
+    "id": 829,
+    "word": "CHICLETE",
+    "tabu": ["mascar", "figurinha", "Bubaloo", "bola", "boca"]
+  },
+  {
+    "id": 830,
+    "word": "cANDELABRo",
+    "tabu": ["vela", "iluminar", "cera", "luz", "castiçal"]
+  },
+  {
+    "id": 831,
+    "word": "POSSE",
+    "tabu": ["janeiro", "juramento", "dia", "presidente", "cerimônia"]
+  },
+  {
+    "id": 832,
+    "word": "PORCO",
+    "tabu": ["sujeira", "óinc", "animal", "leitão", "chiqueiro"]
+  },
+  {
+    "id": 833,
+    "word": "APÊNDICE",
+    "tabu": ["índice", "livro", "final", "cicatriz", "estômago"]
+  },
+  {
+    "id": 834,
+    "word": "TOQUE DE RECOLHER",
+    "tabu": ["data", "hora", "tempo", "dentro", "casa"]
+  },
+  {
+    "id": 835,
+    "word": "CONVÉS",
+    "tabu": ["limpar", "passagem", "acertar", "navio", "barco"]
+  },
+  {
+    "id": 836,
+    "word": "ROUPA ÍNTIMA",
+    "tabu": ["debaixo", "cueca", "sutiã", "calcinha", "lingerie"]
+  },
+  {
+    "id": 837,
+    "word": "LÁPIDE",
+    "tabu": ["cova", "pedra", "epitáfio", "cemitério", "enterrar"]
+  },
+  {
+    "id": 838,
+    "word": "gol",
+    "tabu": ["bola", "futebol", "de placa", "placar", "rede"]
+  },
+  {
+    "id": 839,
+    "word": "MANCHA",
+    "tabu": ["batom", "gordura", "borrão", "esfregar", "tinta"]
+  },
+  {
+    "id": 840,
+    "word": "PIJAMA",
+    "tabu": ["camisola", "dormir", "robe", "roupa", "cama"]
+  },
+  {
+    "id": 841,
+    "word": "FRANGO A PASSARINHO",
+    "tabu": ["galinha", "fritar", "alho", "óleo", "pedaço"]
+  },
+  {
+    "id": 842,
+    "word": "SEREIA",
+    "tabu": ["mulher", "peixe", "canto", "metade", "pequena"]
+  },
+  {
+    "id": 843,
+    "word": "CREME DE BARBEAR",
+    "tabu": ["rosto", "navalha", "espuma", "barba", "gilete"]
+  },
+  {
+    "id": 844,
+    "word": "SÃO BERNARDO",
+    "tabu": ["cachorro", "salvar", "Alpes", "conhaque", "neve"]
+  },
+  {
+    "id": 845,
+    "word": "BANCO",
+    "tabu": ["sentar", "dinheiro", "depósito", "assento", "praça"]
+  },
+  {
+    "id": 846,
+    "word": "DIAMANTE",
+    "tabu": ["pedra", "anel", "lapidar", "jóia", "noivado"]
+  },
+  {
+    "id": 847,
+    "word": "GALERIA",
+    "tabu": ["arte", "museu", "quadros", "mostra", "pintura"]
+  },
+  {
+    "id": 848,
+    "word": "HISTÓRIA",
+    "tabu": ["conto", "contar", "ninar", "ler", "livro"]
+  },
+  {
+    "id": 849,
+    "word": "CARTEIRA",
+    "tabu": ["documento", "bolsa", "dinheiro", "cartão de crédito", "bolso"]
+  },
+  {
+    "id": 850,
+    "word": "DENTADURA",
+    "tabu": ["velho", "dente", "falso", "boca", "tirar"]
+  },
+  {
+    "id": 851,
+    "word": "JOGO DE TÊNIS",
+    "tabu": ["raquete", "quadra", "bola", "Gustavo Kuerten/Guga", "rede"]
+  },
+  {
+    "id": 852,
+    "word": "PICOLÉ",
+    "tabu": ["sorvete", "fruta", "palito", "gelado", "duro"]
+  },
+  {
+    "id": 853,
+    "word": "RATOEIRA",
+    "tabu": ["matar", "roedor", "rato", "pegar", "queijo"]
+  },
+  {
+    "id": 854,
+    "word": "QUILO",
+    "tabu": ["peso", "gordura", "grama", "balança", "calorias"]
+  },
+  {
+    "id": 855,
+    "word": "despenhadeiro",
+    "tabu": ["carrasco", "montanha", "limite", "descer", "passo"]
+  },
+  {
+    "id": 856,
+    "word": "congelar",
+    "tabu": ["gelo", "frio", "inverno", "água", "freezer"]
+  },
+  {
+    "id": 857,
+    "word": "COLCHÃO",
+    "tabu": ["cama", "dormir", "mola", "espuma", "lençol"]
+  },
+  {
+    "id": 858,
+    "word": "NINHO",
+    "tabu": ["pássaro", "ovos", "árvore", "casa", "construir"]
+  },
+  {
+    "id": 859,
+    "word": "PISCINA",
+    "tabu": ["cloro", "nadar", "natação", "água", "mergulhar"]
+  },
+  {
+    "id": 860,
+    "word": "CINTURA",
+    "tabu": ["barriga", "intestino", "comida", "corpo", "fina"]
+  },
+  {
+    "id": 861,
+    "word": "BATALHA",
+    "tabu": ["guerra", "luta", "combate", "exército", "conflito"]
+  },
+  {
+    "id": 862,
+    "word": "LIXEIRA",
+    "tabu": ["lixo", "resto", "entulho", "cesto", "sujeira"]
+  },
+  {
+    "id": 863,
+    "word": "AGONIA",
+    "tabu": ["tortura", "dor", "derrota", "machucar", "sofrer"]
+  },
+  {
+    "id": 864,
+    "word": "ASPIRINA",
+    "tabu": ["comprimido", "enxaqueca", "remédio", "tomar", "droga"]
+  },
+  {
+    "id": 865,
+    "word": "FRAQUE",
+    "tabu": ["formal", "alugar", "casamento", "roupa", "homem"]
+  },
+  {
+    "id": 866,
+    "word": "CAFÉ",
+    "tabu": ["chá", "beber", "cafeína", "manhã", "xícara"]
+  },
+  {
+    "id": 867,
+    "word": "JÓIA",
+    "tabu": ["gema", "pedra", "diamante", "rubi", "presente"]
+  },
+  {
+    "id": 868,
+    "word": "SHOPPING CENTER",
+    "tabu": ["compras", "praça de alimentação", "lojas", "cinema", "lugar"]
+  },
+  {
+    "id": 869,
+    "word": "parquímetro",
+    "tabu": ["carro", "vencer", "guia", "dinheiro", "tíquete"]
+  },
+  {
+    "id": 870,
+    "word": "SELO",
+    "tabu": ["colecionar", "envelope", "carta", "enviar", "lamber"]
+  },
+  {
+    "id": 871,
+    "word": "MUSEU",
+    "tabu": ["arte", "antiguidades", "exibição", "obra", "coleção"]
+  },
+  {
+    "id": 872,
+    "word": "BÍGAMO",
+    "tabu": ["casamento", "marido", "mulher", "divórcio", "esposa"]
+  },
+  {
+    "id": 873,
+    "word": "aeroporto",
+    "tabu": ["viagem", "avião", "rota", "decolar", "voar"]
+  },
+  {
+    "id": 874,
+    "word": "COMPROMISSO",
+    "tabu": ["data", "encontro", "tempo", "médico", "dentista"]
+  },
+  {
+    "id": 875,
+    "word": "BLUSA",
+    "tabu": ["camiseta", "superior", "roupa", "vestir", "saia"]
+  },
+  {
+    "id": 876,
+    "word": "BRIGÃO",
+    "tabu": ["valentão", "escola", "bater", "briga", "empurrar"]
+  },
+  {
+    "id": 877,
+    "word": "CABANA",
+    "tabu": ["palha", "quiosque", "tenda", "acampamento", "barraca"]
+  },
+  {
+    "id": 878,
+    "word": "DÁLMATA",
+    "tabu": ["mancha", "cachorro", "101", "raça", "Disney"]
+  },
+  {
+    "id": 879,
+    "word": "DIABO",
+    "tabu": ["demônio", "capeta", "inferno", "tridente", "anjo"]
+  },
+  {
+    "id": 880,
+    "word": "VIDEOTEIPE",
+    "tabu": ["filme", "TV", "imagens", "passar", "repetir"]
+  },
+  {
+    "id": 881,
+    "word": "FORNO",
+    "tabu": ["fogão", "assar", "cozinhar", "comer", "cozinha"]
+  },
+  {
+    "id": 882,
+    "word": "PASSAPORTE",
+    "tabu": ["viagem", "visto", "país", "identificação", "estrangeiro"]
+  },
+  {
+    "id": 883,
+    "word": "PIANO",
+    "tabu": ["tecla", "instrumento", "marfim", "cauda", "música"]
+  },
+  {
+    "id": 884,
+    "word": "RENA",
+    "tabu": ["Natal", "Papai Noel", "trenó", "neve", "nariz vermelho"]
+  },
+  {
+    "id": 885,
+    "word": "CAÇA-NÍQUEL",
+    "tabu": ["moeda", "jogar", "máquina", "figuras", "Las Vegas"]
+  },
+  {
+    "id": 886,
+    "word": "AÇÕES",
+    "tabu": ["bolsa", "mercado", "título", "valor", "Wall Street"]
+  },
+  {
+    "id": 887,
+    "word": "TATUAGEM",
+    "tabu": ["pele", "tinta", "agulha", "desenho", "marinheiro"]
+  },
+  {
+    "id": 888,
+    "word": "trólebus",
+    "tabu": ["ônibus", "elétrico", "cabo", "coletivo", "rua"]
+  },
+  {
+    "id": 889,
+    "word": "LUA-DE-MEL",
+    "tabu": ["casamento", "recém-casado", "noivos", "viagem", "depois"]
+  },
+  {
+    "id": 890,
+    "word": "OURO PRETO",
+    "tabu": ["Aleijadinho", "barroco", "Minas Gerais", "patrimônio", "igreja"]
+  },
+  {
+    "id": 891,
+    "word": "ÓLEO",
+    "tabu": ["derramar", "sair", "oliva", "carro", "furadeira"]
+  },
+  {
+    "id": 892,
+    "word": "SUBMARINO",
+    "tabu": ["subaquático", "periscópio", "amarelo", "torpedo", "água"]
+  },
+  {
+    "id": 893,
+    "word": "BIZARRO",
+    "tabu": ["esquisito", "estranho", "anormal", "incomum", "não convencional"]
+  },
+  {
+    "id": 894,
+    "word": "BATOM",
+    "tabu": ["boca", "maquiagem", "cosmético", "vermelho", "tubo"]
+  },
+  {
+    "id": 895,
+    "word": "halloween",
+    "tabu": ["fantasia", "abóbora", "outubro", "bruxas", "dia"]
+  },
+  {
+    "id": 896,
+    "word": "promessa",
+    "tabu": ["pagar", "joelho", "rezar", "cumprir", "pedido"]
+  },
+  {
+    "id": 897,
+    "word": "ESPIÃO",
+    "tabu": ["agente", "informante", "polícia", "investigar", "contar"]
+  },
+  {
+    "id": 898,
+    "word": "ANJO",
+    "tabu": ["céu", "diabo", "auréola", "asas", "branco"]
+  },
+  {
+    "id": 899,
+    "word": "ARTILHEIRO",
+    "tabu": ["futebol", "gol", "bola", "chutar", "mais"]
+  },
+  {
+    "id": 900,
+    "word": "ÔNIBUS ESPACIAL",
+    "tabu": ["Challenger", "Columbia", "Estados Unidos", "espaço", "órbita"]
+  },
+  {
+    "id": 901,
+    "word": "chimpanzé",
+    "tabu": ["selva", "Tarzan", "zoológico", "macaco", "gorila"]
+  },
+  {
+    "id": 902,
+    "word": "BEBIDA",
+    "tabu": ["beber", "copo", "líquido", "comida", "sede"]
+  },
+  {
+    "id": 903,
+    "word": "camuflagem",
+    "tabu": ["disfarce", "uniforme", "esconder", "fingir", "exército"]
+  },
+  {
+    "id": 904,
+    "word": "GLOBO",
+    "tabu": ["mundo", "mapa", "esfera", "redondo", "Terra"]
+  },
+  {
+    "id": 905,
+    "word": "SOGRA",
+    "tabu": ["casamento", "mulher", "parente", "esposa", "mãe"]
+  },
+  {
+    "id": 906,
+    "word": "IMAGEM",
+    "tabu": ["fotografia", "pintura", "quadro", "câmera", "filme"]
+  },
+  {
+    "id": 907,
+    "word": "COMPUTADOR",
+    "tabu": ["IBM", "Microsoft", "teclado", "software", "programa"]
+  },
+  {
+    "id": 908,
+    "word": "SÓCIO",
+    "tabu": ["clube", "pertencer", "associar", "taxa", "organização"]
+  },
+  {
+    "id": 909,
+    "word": "LINGERIE",
+    "tabu": ["roupa íntima", "sutiã", "calcinha", "meia", "mulher"]
+  },
+  {
+    "id": 910,
+    "word": "CÓCEGAS",
+    "tabu": ["rir", "roçar", "gargalhar", "costela", "pena"]
+  },
+  {
+    "id": 911,
+    "word": "AGULHA",
+    "tabu": ["costurar", "linha", "palheiro", "buraco", "acupuntura"]
+  },
+  {
+    "id": 912,
+    "word": "motocicleta",
+    "tabu": ["2 rodas", "motoboy", "bicicleta", "andar", "moto"]
+  },
+  {
+    "id": 913,
+    "word": "IMPRENSA",
+    "tabu": ["órgão", "repórter", "jornal", "mídia", "conferência"]
+  },
+  {
+    "id": 914,
+    "word": "ASFALTO",
+    "tabu": ["rua", "preto", "piche", "estrada", "cimento"]
+  },
+  {
+    "id": 915,
+    "word": "PERFUME",
+    "tabu": ["colônia", "aroma", "cheiro", "pós-barba", "fragrância"]
+  },
+  {
+    "id": 916,
+    "word": "GARAGEM",
+    "tabu": ["carro", "estacionar", "casa", "automóvel", "dentro"]
+  },
+  {
+    "id": 917,
+    "word": "FERNANDO DE NORONHA",
+    "tabu": ["nordeste", "praia", "férias", "ilha", "arquipélago"]
+  },
+  {
+    "id": 918,
+    "word": "ALERGIA",
+    "tabu": ["ácaro", "espirro", "sensibilidade", "reação", "Pó"]
+  },
+  {
+    "id": 919,
+    "word": "LÂMINA",
+    "tabu": ["patins de gelo", "faca", "afiada", "estilete", "barbear"]
+  },
+  {
+    "id": 920,
+    "word": "curiosidade",
+    "tabu": ["interesse", "gato", "perguntar", "abelhudo", "questões"]
+  },
+  {
+    "id": 921,
+    "word": "IMPRESSÃO DIGITAL",
+    "tabu": ["mão", "marca", "evidência", "crime", "Pó"]
+  },
+  {
+    "id": 922,
+    "word": "PATA",
+    "tabu": ["pé", "animal", "garra", "pato", "perna"]
+  },
+  {
+    "id": 923,
+    "word": "telefone",
+    "tabu": ["ligar", "tocar", "número", "discar", "ocupado"]
+  },
+  {
+    "id": 924,
+    "word": "COQUETEL",
+    "tabu": ["bebida", "álcool", "barman", "molotov", "canapé"]
+  },
+  {
+    "id": 925,
+    "word": "danceteria",
+    "tabu": ["bar", "dançar", "música", "DJ", "mesa"]
+  },
+  {
+    "id": 926,
+    "word": "APONTAR",
+    "tabu": ["ponta", "afiar", "dedo", "lápis", "final"]
+  },
+  {
+    "id": 927,
+    "word": "NOTA",
+    "tabu": ["escola", "professor", "boletim", "prova", "recuperação"]
+  },
+  {
+    "id": 928,
+    "word": "TABLADO",
+    "tabu": ["discurso", "microfone", "posição", "audiência", "conferência"]
+  },
+  {
+    "id": 929,
+    "word": "astronauta",
+    "tabu": ["espaço", "lançar", "lua", "Neil Armstrong", "NASA"]
+  },
+  {
+    "id": 930,
+    "word": "PREVISÃO",
+    "tabu": ["tempo", "televisão", "rádio", "prognóstico", "chuva"]
+  },
+  {
+    "id": 931,
+    "word": "IGLU",
+    "tabu": ["esquimó", "neve", "Alasca", "casa", "gelo"]
+  },
+  {
+    "id": 932,
+    "word": "ILHA",
+    "tabu": ["Marajó", "oceano", "cercada", "água", "terra"]
+  },
+  {
+    "id": 933,
+    "word": "PÔQUER",
+    "tabu": ["carta", "baralho", "ficha", "jogo", "apostar"]
+  },
+  {
+    "id": 934,
+    "word": "DURO",
+    "tabu": ["rígido", "cadáver", "morto", "mole", "sólido"]
+  },
+  {
+    "id": 935,
+    "word": "garganta",
+    "tabu": ["engolir", "pescoço", "inflamada", "dor", "amídala"]
+  },
+  {
+    "id": 936,
+    "word": "REGAR",
+    "tabu": ["regador", "água", "úmido", "mangueira", "gotejar"]
+  },
+  {
+    "id": 937,
+    "word": "NEVASCA",
+    "tabu": ["tempestade de neve", "inverno", "branco", "vento", "frio"]
+  },
+  {
+    "id": 938,
+    "word": "SONHO",
+    "tabu": ["pesadelo", "dormir", "dia", "cama", "subconsciente"]
+  },
+  {
+    "id": 939,
+    "word": "OCEANO",
+    "tabu": ["Atlântico", "Pacífico", "mar", "água", "Índico"]
+  },
+  {
+    "id": 940,
+    "word": "MEDIA",
+    "tabu": ["proporção", "valor", "acima", "metade", "abaixo"]
+  },
+  {
+    "id": 941,
+    "word": "SALMÃO",
+    "tabu": ["peixe", "rio", "ova", "cor", "sushi"]
+  },
+  {
+    "id": 942,
+    "word": "QUEIMADURA DE SOL",
+    "tabu": ["vermelho", "pele", "protetor", "bronzeador", "Sundown"]
+  },
+  {
+    "id": 943,
+    "word": "FOGUEIRA",
+    "tabu": ["queimar", "acampamento", "praia", "fogo", "lenha"]
+  },
+  {
+    "id": 944,
+    "word": "ALGEMA",
+    "tabu": ["pulso", "polícia", "chave", "prender", "ladrão"]
+  },
+  {
+    "id": 945,
+    "word": "ALFINETE",
+    "tabu": ["agulha", "cabeça", "bola", "segurança", "broche"]
+  },
+  {
+    "id": 946,
+    "word": "tiradentes",
+    "tabu": [
+      "Joaquim José da Silva Xavier",
+      "feriado",
+      "Independência",
+      "Inconfidência Mineira",
+      "forca"
+    ]
+  },
+  {
+    "id": 947,
+    "word": "BAILE",
+    "tabu": ["dançar", "música", "casal", "namoro", "vestido"]
+  },
+  {
+    "id": 948,
+    "word": "MISTURAR",
+    "tabu": ["juntar", "mexer", "combinar", "bater", "liquidificador"]
+  },
+  {
+    "id": 949,
+    "word": "CIRURGIA",
+    "tabu": ["hospital", "médico", "operação", "cortar", "bisturi"]
+  },
+  {
+    "id": 950,
+    "word": "HASHI",
+    "tabu": ["japonês", "palito", "utensílio", "comer", "sushi"]
+  },
+  {
+    "id": 951,
+    "word": "SOFÁ",
+    "tabu": ["poltrona", "televisão", "sentar", "móveis", "estofado"]
+  },
+  {
+    "id": 952,
+    "word": "acupuntura",
+    "tabu": ["agulha", "chinês", "medicinal", "médico", "dor"]
+  },
+  {
+    "id": 953,
+    "word": "ABELHA",
+    "tabu": ["zumbido", "colméia", "picada", "mel", "rainha"]
+  },
+  {
+    "id": 954,
+    "word": "CABO",
+    "tabu": ["televisão", "fio", "telegrama", "bonde", "canal"]
+  },
+  {
+    "id": 955,
+    "word": "CHALÉ",
+    "tabu": ["suiço", "casa", "madeira", "choupana", "montanha"]
+  },
+  {
+    "id": 956,
+    "word": "câmara escura",
+    "tabu": ["fotografia", "revelar", "imagens", "luz", "filme"]
+  },
+  {
+    "id": 957,
+    "word": "BRIGA DE FAMÍLIA",
+    "tabu": ["luta", "disputa", "discussão", "parente", "entre"]
+  },
+  {
+    "id": 958,
+    "word": "holograma",
+    "tabu": ["tridimensional", "foto", "imagem", "cartão de crédito", "luz"]
+  },
+  {
+    "id": 959,
+    "word": "AVEIA",
+    "tabu": ["cereal", "café da manhã", "biscoito", "Quaker", "mingau"]
+  },
+  {
+    "id": 960,
+    "word": "ÓRBITA",
+    "tabu": ["espaço", "satélite", "em volta", "círculo", "Terra"]
+  },
+  {
+    "id": 961,
+    "word": "FESTA",
+    "tabu": ["presente", "comemoração", "convite", "amigos", "aniversário"]
+  },
+  {
+    "id": 962,
+    "word": "PAVÃO",
+    "tabu": ["pássaro", "cauda", "orgulhoso", "colorida", "pena"]
+  },
+  {
+    "id": 963,
+    "word": "ROTINA",
+    "tabu": ["lembrar", "sentimento", "hábito", "sempre", "repetir"]
+  },
+  {
+    "id": 964,
+    "word": "arquiteto",
+    "tabu": ["construção", "projeto", "desenhos", "planta", "design"]
+  },
+  {
+    "id": 965,
+    "word": "BALÃO",
+    "tabu": ["gás hélio", "encher", "ar", "borracha", "estourar"]
+  },
+  {
+    "id": 966,
+    "word": "CAMISOLA",
+    "tabu": ["roupa de dormir", "pijama", "cama", "flanela", "mulher"]
+  },
+  {
+    "id": 967,
+    "word": "MARINHA",
+    "tabu": ["navio", "oceano", "exército", "marinheiro", "Forças Armadas"]
+  },
+  {
+    "id": 968,
+    "word": "PIRATA",
+    "tabu": ["mar", "navio", "tapa-olho", "gancho", "marinheiro"]
+  },
+  {
+    "id": 969,
+    "word": "CERTIDÃO DE NASCIMENTO",
+    "tabu": ["prova", "legal", "nascido", "documento", "velho"]
+  },
+  {
+    "id": 970,
+    "word": "AUDITÓRIO",
+    "tabu": ["teatro", "multidão", "aplauso", "performance", "pessoas"]
+  },
+  {
+    "id": 971,
+    "word": "banqueiro",
+    "tabu": ["dinheiro", "caixa", "empréstimo", "hipoteca", "finanças"]
+  },
+  {
+    "id": 972,
+    "word": "CAIXA DE CORREIO",
+    "tabu": ["selo", "correio", "carta", "envelope", "mandar"]
+  },
+  {
+    "id": 973,
+    "word": "BOLACHA",
+    "tabu": ["biscoito", "recheada", "café", "pacote", "wafer"]
+  },
+  {
+    "id": 974,
+    "word": "adultério",
+    "tabu": ["casamento", "caso", "infiel", "fraude", "traição"]
+  },
+  {
+    "id": 975,
+    "word": "JACARÉ",
+    "tabu": ["rio", "Pantanal", "crocodilo", "dente", "animal"]
+  },
+  {
+    "id": 976,
+    "word": "GRAVATA",
+    "tabu": ["usar", "homem", "terno", "camisa", "colarinho"]
+  },
+  {
+    "id": 977,
+    "word": "mãe natureza",
+    "tabu": ["meio ambiente", "ecologia", "clima", "pai", "ar livre"]
+  },
+  {
+    "id": 978,
+    "word": "PICANHA",
+    "tabu": ["comer", "churrasco", "carne", "sal grosso", "bife"]
+  },
+  {
+    "id": 979,
+    "word": "lavanderia",
+    "tabu": ["lavadora", "secadora", "roupas", "lavar", "máquina"]
+  },
+  {
+    "id": 980,
+    "word": "ROBE",
+    "tabu": ["mulher", "sedutora", "roupão", "vestir", "em casa"]
+  },
+  {
+    "id": 981,
+    "word": "ENTULHO",
+    "tabu": ["saco", "juntar", "lixo", "jogar", "restos"]
+  },
+  {
+    "id": 982,
+    "word": "ENTULHO",
+    "tabu": ["saco", "juntar", "lixo", "jogar", "restos"]
+  },
+  {
+    "id": 983,
+    "word": "TRIATLO",
+    "tabu": ["natação", "corrida", "ciclismo", "esporte", "três"]
+  },
+  {
+    "id": 984,
+    "word": "TRIATLO",
+    "tabu": ["natação", "corrida", "ciclismo", "esporte", "três"]
+  },
+  {
+    "id": 985,
+    "word": "LAPTOP",
+    "tabu": ["computador", "micro", "levar", "desktop", "portátil"]
+  },
+  {
+    "id": 985,
+    "word": "LAPTOP",
+    "tabu": ["computador", "micro", "levar", "desktop", "portátil"]
+  },
+  {
+    "id": 986,
+    "word": "SAUDÁVEL",
+    "tabu": ["bem", "forma", "doente", "sentir", "corpo"]
+  },
+  {
+    "id": 986,
+    "word": "SAUDÁVEL",
+    "tabu": ["bem", "forma", "doente", "sentir", "corpo"]
+  },
+  {
+    "id": 987,
+    "word": "SARAMPO",
+    "tabu": ["caxumba", "mancha", "vermelho", "catapora", "doença"]
+  },
+  {
+    "id": 987,
+    "word": "HIPOTECA",
+    "tabu": ["banco", "casa", "dívida", "pagamento", "residência"]
+  },
+  {
+    "id": 988,
+    "word": "PIPOCA",
+    "tabu": ["grão", "cinema", "estourar", "microondas", "milho"]
+  },
+  {
+    "id": 988,
+    "word": "CARROSSEL",
+    "tabu": ["girar", "diversão", "parque", "andar", "cavalo"]
+  },
+  {
+    "id": 989,
+    "word": "ELVIS PRESLEy",
+    "tabu": ["rock-n’-roll", "dançar", "cantor", "rei", "sucesso"]
+  },
+  {
+    "id": 990,
+    "word": "DIÁRIO",
+    "tabu": ["segredos", "escrever", "todos", "pessoal", "livro"]
+  },
+  {
+    "id": 991,
+    "word": "OSCAR",
+    "tabu": ["melhor", "filme", "prêmio", "estatueta", "indicação"]
+  },
+  {
+    "id": 992,
+    "word": "GAITA",
+    "tabu": ["instrumento", "blues", "musical", "boca", "soprar"]
+  },
+  {
+    "id": 993,
+    "word": "JAMES BONd",
+    "tabu": ["7", "agente", "filme", "nome", "Pierce Brosnan"]
+  },
+  {
+    "id": 994,
+    "word": "CÂMERA",
+    "tabu": ["tirar", "retrato", "filme", "foto", "flash"]
+  },
+  {
+    "id": 995,
+    "word": "POMBO",
+    "tabu": ["correio", "paz", "Olimpíadas", "branca", "pássaro"]
+  },
+  {
+    "id": 996,
+    "word": "CÍLIO",
+    "tabu": ["pêlo", "rímel", "pálpebra", "olho", "sombra"]
+  },
+  {
+    "id": 997,
+    "word": "FIO DENTAL",
+    "tabu": ["dentista", "dente", "escova", "linha", "cera"]
+  },
+  {
+    "id": 998,
+    "word": "TERRA",
+    "tabu": ["globo", "mundo", "planeta", "Natal", "plantar"]
+  },
+  {
+    "id": 999,
+    "word": "ENTRADA",
+    "tabu": ["porta", "dentro", "abertura", "sair", "saída"]
+  },
+  {
+    "id": 1000,
+    "word": "JUKEBOX",
+    "tabu": ["música", "escolher", "máquina", "disco", "moeda"]
+  }
+]
